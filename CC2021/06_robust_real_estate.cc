@@ -1,3 +1,20 @@
+// It's no secret that the prime locations on a monolopy board are very desirable, 
+// as you can charge the highest rents on them. However aiming for the prime locations
+// might not always be the best strategy. While a prime location can be a good source
+// of income, it might not be very robust. Odds are that the orange and red streets
+// are a more robust source of income, and can be turned into prime revenue streams
+// with the appropriate amount of hotels. Talking about robust primes. A prime number
+// is considered left-truncatable if you can obtain a sequence of prime numbers by
+// consecutive removal of the leftmost digit (e.g. 373,73,3). A prime number is
+// considered right-truncatable if you can obtain a sequence of prime numbers by
+// consecutive removal of the rightmost digit (e.g. 373,37,3). A prime number is
+// considered truncatable if you can obtain a sequence of prime numbers by consecutive
+// removal of the either the rightmost or the leftmost digit (e.g. 373,(37,73),((3,7),(7,3))).
+// Robust primes are prime numbers that allow the consecutive removal of *any* digit
+// and still produce a sequence of prime numbers (So 373 is not robust, since taking
+// away the middle digit 7, will give you 33 which is not prime.). What is the
+// product of all robust prime numbers smaller than 1,000,000?
+
 #include "euler/euler.h"
 #include "easy/easy.h"
 #include <algorithm>
