@@ -19,24 +19,9 @@
 #include "easy/easy.h"
 #include <algorithm>
 
-std::vector<int> num2vec(int num)
-{
-    std::vector<int> numbers;
-    
-    while (num)
-    {
-        numbers.push_back(num % 10);
-        num /= 10;
-    }
-
-    std::reverse(numbers.begin(), numbers.end());
-
-    return numbers;
-}
-
 std::vector<int> genCombs(int prime)
 {
-    std::vector<int> numberlist = num2vec(prime);
+    std::vector<int> numberlist = euler::num2vec(prime);
     
     std::vector<int> combinationList;
     for (int k = 1; k != euler::math::intlog10(prime) + 1; ++k)
@@ -58,14 +43,15 @@ int main()
     
     auto const primes = primetools.sieve(1'000'000);
     bool robust;
+    std::vector<int> combinationList;
 
     size_t product = 1;
     for (int prime : primes)
     {
-        std::vector<int> combinationList = genCombs(prime);
+        combinationList = genCombs(prime);
 
         robust = true;
-        for (int comb : genCombs(prime))
+        for (int comb : combinationList)
             if (not primetools.isPrime(comb))
                 robust = false;
 

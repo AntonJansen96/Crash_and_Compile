@@ -1,36 +1,5 @@
+#include "euler/euler.h"
 #include <iostream>
-
-// Euclidean algorithm. Returns greatest common denominator of a and b.
-int gcd(int a, int b)
-{
-#ifdef __GNUC__   // This is around 60% faster using specific CPU instructions.
-                  // Source https://euler.stephan-brumme.com/toolbox/
-    if (a == 0 || b == 0)
-        return b;
-
-    // MSVC++: _BitScanForward intrinsic instead
-    auto shift = __builtin_ctz(a | b);
-    a >>= __builtin_ctz(a);
-    do
-    {
-        b >>= __builtin_ctz(b);
-        if (a > b)
-            std::swap(a, b);
-        
-        b -= a;
-    } while (b != 0);
-
-    return a << shift;
-
-#else
-    // standard GCD
-    while (b) 
-        b ^= a ^= b ^= a %= b;
-    
-    return a;
-
-#endif
-}
 
 int main()
 {
@@ -41,7 +10,7 @@ int main()
 
     while (true)
     {
-        val = gcd(n_1, n);
+        val = euler::gcd(n_1, n);
 
         if (val == 1)
             n_1 = n_1 + n + 1;

@@ -31,3 +31,6 @@ for num in range(1, 10000):
         total += num
 
 print(total)
+
+# 36761822
+# instant
