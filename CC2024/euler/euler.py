@@ -348,7 +348,10 @@ def isJuf(num: int) -> bool:
         bool: True if number is a Juf number, False otherwise.
     """
 
-    return (num % 7 == 0) or ("7" in str(num)) or (num > 10 and isPalindrome(num))
+    a = num % 7 == 0
+    b = "7" in str(num)
+    c = num > 10 and isPalindrome(num)
+    return (num > 0) and (a or b or c)
 
 
 def isPalindrome(num: int) -> bool:
