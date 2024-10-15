@@ -244,9 +244,7 @@ JH AH 8D 8H
 10C 9S KS 9C
 10S 8S JD AS
 QS 10H JS 10D
-
 -------
-
 Pass
 82D
 92H
@@ -545,9 +543,7 @@ AH 7S 8H 9H
 AS 9S 7H QH
 JS QS AC KH
 KC 10H 8S 10D
-
 -------
-
 Pass
 82D
 Pass
@@ -790,9 +786,7 @@ KD QC 10D JS
 KS 8S 10H 10S
 AC KH 8H 9H
 KC AH 7H QH
-
 -------
-
 82D
 Pass
 Pass
@@ -1089,9 +1083,7 @@ AD 9D 10H 10D
 KD QD JH AC
 10C KH QH QS
 QC JD 9S KS
-
 -------
-
 92S
 Pass
 Pass
@@ -1351,9 +1343,7 @@ JD 8D 7D KD
 AD QD QC 10D
 AC 7C JC 9C
 KC 8H JS 10C
-
 -------
-
 Pass
 Pass
 Pass
@@ -1619,9 +1609,7 @@ JH 7C 7D 9C
 8S 9S 8D 10S
 10C 8C AD JC
 QS QC AC KC
-
 -------
-
 82C
 Pass
 92C
@@ -1905,9 +1893,7 @@ QC AC JC 10C
 9C KC KS JS
 8S QH 9S KD
 10H KH 7C JH
-
 -------
-
 Pass
 Pass
 82S
@@ -2156,9 +2142,7 @@ KH AS QH 9D
 10D 8C KS JC
 9C 10C 7C KC
 AC JD QC 10S
-
 -------
-
 82C
 Pass
 Pass
@@ -2472,9 +2456,7 @@ AD 7D 8D QD
 9S 10C 10S 8S
 9D KD JD 10D
 QS AC KH 7S
-
 -------
-
 92H
 Pass
 Pass
@@ -2721,9 +2703,7 @@ KH 9H 8H QC
 AC 8C 10S JC
 AS 9S KS JS
 QS 7S AH 8D
-
 -------
-
 80SANS
 Pass
 Pass
@@ -3000,9 +2980,7 @@ JS 7H 8H QS
 7S 10C QH 9S
 7C AS QC 10H
 9H JH AH 8D
-
 -------
-
 82D
 92C
 Pass
@@ -3256,9 +3234,7 @@ KC 7C KS 9C
 AS 7D 7H JD
 9D QD KD AD
 JC 10D 8D QS
-
 -------
-
 82H
 92C
 Pass
@@ -3549,9 +3525,7 @@ AH 8D JC 9D
 KS QD AS 9C
 10S 7C KC KD
 AC 10C 7D AD
-
 -------
-
 82S
 Pass
 Pass
@@ -3837,9 +3811,7 @@ KC 10C AC 9C
 KD 7H 10D JD
 8C QC JS 9D
 AD 8D 7D JC
-
 -------
-
 82C
 Pass
 Pass
@@ -4118,9 +4090,7 @@ QD 9D AD 7D
 8H 8D 8C 10C
 AC 7C QS KD
 JC QC JS 10D
-
 -------
-
 Pass
 Pass
 80SANS
@@ -4453,9 +4423,7 @@ AC 8C 9C QH
 JC 9H 7C QD
 QS JH 7H 10D
 AS 10H JD AH
-
 -------
-
 112H
 Pass
 Pass
@@ -4704,9 +4672,7 @@ QS 10H 8D JC
 KD AD 9D 10D
 AC KC QC 9C
 JD 10C 7S QD
-
 -------
-
 Pass
 82S
 Pass
@@ -5011,9 +4977,7 @@ KH QH KC JC
 9H 10S 7D 10C
 KD AD 9D JD
 AC 10D 7C QC
-
 -------
-
 80SANS
 Pass
 92S
@@ -5271,9 +5235,7 @@ QC QS 7C QD
 10D QH JH AD
 KD 10S 8H KH
 9H 10H AH 9D
-
 -------
-
 112D
 Pass
 Pass
@@ -5524,9 +5486,7 @@ AH 9H QH KH
 7H JD 10H KC
 QC 10C AS QD
 8H 10D 7C KD
-
 -------
-
 Pass
 Pass
 Pass
@@ -5818,9 +5778,7 @@ JH KH JS KD
 KS AS 8S 8H
 10D 9D 7H QS
 10S JD 7C 7S
-
 -------
-
 Pass
 82D
 Pass
@@ -6110,9 +6068,7 @@ KD QD QH QS
 KH 7C JC KC
 9C 8C 8D 10C
 AC KS 10D 9D
-
 -------
-
 82H
 92C
 102S
@@ -6362,9 +6318,7 @@ KC 10C JC 7C
 8D JD AD KD
 10H 9H 9D QH
 9S 10D 7D 8H
-
 -------
-
 82C
 92H
 112C
@@ -6629,9 +6583,7 @@ AH 9H QH JH
 KH AD KC KS
 10S 8S QC JD
 AS 7D 10D 9D
-
 -------
-
 82S
 92D
 102S
@@ -6924,9 +6876,7 @@ JC QS AD 7C
 KS 9H 9S JS
 AS 10D 7S JD
 10H 7D 8S KD
-
 -------
-
 82S
 92D
 102S
@@ -7176,9 +7126,7 @@ KD 8C 10D 8H
 AS 9H 9S 10S
 QD 7C JD QC
 8D 10C QS KC
-
 -------
-
 70SANS
 Pass
 82D
@@ -7472,9 +7420,7 @@ KH AH 10H 8H
 7H JC AS 9H
 7S QH JH KC
 QD KD QC AC
-
 -------
-
 Pass
 82C
 Pass
@@ -7757,9 +7703,7 @@ AC JC QC 7C
 9H JS 8S JH
 9C 7S KS 10C
 QD 9D QS AS
-
 -------
-
 82H
 92C
 102D
@@ -8027,9 +7971,7 @@ KC 8C JC JS
 8S 7S AS 10S
 10D 10H QD 9H
 8H KS AH 9D
-
 -------
-
 Pass
 82D
 92H
@@ -8323,9 +8265,7 @@ JH JD AH 8H
 KS 7S AS QS
 AC JC JS 9S
 8S KC QH 10S
-
 -------
-
 Pass
 102S
 Pass
@@ -8620,9 +8560,7 @@ AS KS QS 10C
 7C 9C AH KC
 9S 10S 8S AD
 KH 8H AC JS
-
 -------
-
 70SANS
 Pass
 162D
@@ -8919,9 +8857,7 @@ KD QC 8H JC
 10C 7S 8C 9C
 AC JS 7C JH
 KC KS 10S QH
-
 -------
-
 Pass
 82H
 Pass
@@ -9259,9 +9195,7 @@ AH 8H JH QD
 JD KH QS 8C
 AS 10S 9S 7H
 AC KC 9H 10H
-
 -------
-
 92H
 Pass
 Pass
@@ -9561,9 +9495,7 @@ JC AC QC 9D
 10S KH AS 9S
 AD JH KC QD
 8C 10H 9H KS
-
 -------
-
 82C
 92H
 100SANS
@@ -9848,9 +9780,7 @@ AD JH 9D QD
 8D KH 7D 10D
 KD JD KC QH
 10H KS 9C 8C
-
 -------
-
 82C
 Pass
 92D
@@ -10117,9 +10047,7 @@ AH KH JH 9H
 7H QS 8H 7C
 AC 9D AD JD
 9C QH QD JS
-
 -------
-
 92S
 Pass
 90SANS
@@ -10398,9 +10326,7 @@ AC JC KC QC
 10C 9C 7C JH
 8C JD KH QD
 QH 10H 7H AH
-
 -------
-
 70SANS
 Pass
 82S
@@ -10684,9 +10610,7 @@ JS KD KS 7H
 JD 8D 10D AD
 KH JH AH 8H
 7D 8C 10H 7C
-
 -------
-
 82D
 Pass
 92C
@@ -10941,9 +10865,7 @@ QD KD JD 10D
 9D JC 7D 9C
 JH QC KC AC
 8C 10C 7C KS
-
 -------
-
 80SANS
 Pass
 Pass
@@ -11186,9 +11108,7 @@ KH 9H 7H 10C
 7D QC 8C JD
 AH 7C AC 8S
 8H KC QS AS
-
 -------
-
 102D
 Pass
 Pass
@@ -11429,9 +11349,7 @@ AS JS 10S 8S
 AH AD 9H QC
 10C KC 8D JD
 8H 7D KH 10D
-
 -------
-
 Pass
 Pass
 Pass
@@ -11756,9 +11674,7 @@ QD 9D 7D KD
 AD 9H 8D 10D
 7C 10C 8C AC
 JD KC AS 9C
-
 -------
-
 Pass
 Pass
 Pass
@@ -12098,9 +12014,7 @@ AD JD KD 8D
 AS 10S JH 9H
 10H JC 8H AH
 KH 7S QC 10C
-
 -------
-
 82C
 Pass
 Pass
@@ -12386,9 +12300,7 @@ AC 7C QC 7D
 KC 10C 8S QS
 JC 8D KH 9C
 AH 9H KD QD
-
 -------
-
 92D
 Pass
 Pass
@@ -12664,9 +12576,7 @@ KS 8S 9H 7H
 AS 7S QH KC
 KH 8H AH 10H
 9D 10C KD JS
-
 -------
-
 Pass
 82C
 Pass
@@ -12964,9 +12874,7 @@ AD 7D 8D KD
 AC 10C JH 8C
 QD KC 10D QH
 9H 8H AS 10H
-
 -------
-
 82D
 92S
 112H
@@ -13206,9 +13114,7 @@ AC 8C QD KC
 JC QC 8S 10C
 AD 10D 7C JD
 8H 7H QS JH
-
 -------
-
 92C
 Pass
 102S
@@ -13454,9 +13360,7 @@ QH JH 10H AH
 JD 10D 8C 9D
 7H 9H 10S KH
 AS 8D KS AC
-
 -------
-
 Pass
 Pass
 80SANS
@@ -13748,9 +13652,7 @@ JH 10H 7H KD
 9D 10S KC AS
 9S QD 7S KH
 8S 8C KS 10C
-
 -------
-
 Pass
 Pass
 82H
@@ -14093,9 +13995,7 @@ QD 8D 10S 7S
 AH QS JS QC
 7H 10C JC KC
 QH 7C 9C AC
-
 -------
-
 82H
 92D
 102H
@@ -14388,9 +14288,7 @@ QD KD 9D 7D
 AC 8S KS 8C
 JC QS KH KC
 AS 10S JS 7S
-
 -------
-
 82C
 92D
 102C
@@ -14648,9 +14546,7 @@ QD AS KH 10H
 JC QC 10C 9H
 AC 7H KC JH
 10S AH 8H QH
-
 -------
-
 82S
 92D
 Pass
@@ -14943,9 +14839,7 @@ AD JH JD 8H
 KD 7S 9S QS
 QD JS 8C AS
 7C KH 10S KS
-
 -------
-
 82D
 92S
 102D
@@ -15177,9 +15071,7 @@ AD QH JD 9D
 AS 10S QD 8S
 QS 10D 9H JS
 8D 10H KC 8H
-
 -------
-
 102C
 Pass
 Pass
@@ -15418,9 +15310,7 @@ AC 7C 8C 8S
 KD 8D KS QD
 AD JC KC 9S
 JS QS 10S 7S
-
 -------
-
 Pass
 82C
 Pass
@@ -15722,9 +15612,7 @@ QC 9C 10C KC
 KH AH 8H 10H
 AD 8D JD 7S
 AS KD 9H 7H
-
 -------
-
 Pass
 Pass
 Pass
@@ -16026,9 +15914,7 @@ AS JH 9C JS
 QS QH 8H 8C
 KC AC 7C QC
 AH 10H JC 10C
-
 -------
-
 82H
 Pass
 Pass
@@ -16279,9 +16165,7 @@ AH 8H 7H JH
 9H JS 10H KH
 9D 8S 9S 10S
 QS 7S QH AS
-
 -------
-
 Pass
 Pass
 Pass
@@ -16639,9 +16523,7 @@ KH JH JS QH
 9S AS QC 7S
 8C 10S JD KD
 7C 10D KS 7D
-
 -------
-
 Pass
 82S
 92H
@@ -16960,9 +16842,7 @@ KH 7H KS 9H
 QS 8S 10S 8D
 KC 10H 10C 7C
 9S 9C 8C AS
-
 -------
-
 82D
 Pass
 Pass
@@ -17170,9 +17050,7 @@ AH JH KH 9H
 AS 9S JD JS
 10S QS 8H KS
 7S 10H 9D 7H
-
 -------
-
 Pass
 82H
 102D
@@ -17485,9 +17363,7 @@ AC JC 8C 9C
 QC 10C 7C KC
 KD AD 8D 10S
 7S 10D JD 7D
-
 -------
-
 Pass
 82H
 80SANS
@@ -17800,9 +17676,7 @@ QH 8S KD QS
 JH 9C AS 7S
 10C AC JS 10D
 8C 10S KS 7H
-
 -------
-
 102H
 Pass
 Pass
@@ -18049,9 +17923,7 @@ QC 7C JC AC
 7S AS QS KS
 10D JD 9D QD
 10S KC JH 10C
-
 -------
-
 82D
 92C
 Pass
@@ -18287,9 +18159,7 @@ JH QH AH 8H
 QS AS 9S 9D
 JD KS KC KH
 10S 7S 8C 9H
-
 -------
-
 112C
 Pass
 Pass
@@ -18541,9 +18411,7 @@ KH JH 10H 8S
 AS KS JS 7S
 QS 10S 9S QD
 10D 9D KD QC
-
 -------
-
 102D
 112C
 122D
@@ -18808,9 +18676,7 @@ QS 10S 7S JS
 KS 8C AS QH
 AC 7C JC KH
 8S QC KC 10C
-
 -------
-
 Pass
 82C
 Pass
@@ -19069,9 +18935,7 @@ AH JH 10S KD
 8D 7S 7D AD
 AS 9H 9S JS
 KS QD 10H 10D
-
 -------
-
 82H
 102D
 Pass
@@ -19311,9 +19175,7 @@ AS QD KC QS
 10C AC 9C QC
 8C JD 7C 8H
 9H JC AD 10D
-
 -------
-
 Pass
 Pass
 Pass
@@ -19637,9 +19499,7 @@ QS 8S 9D AS
 AH 9H 10H 7H
 QD JD KC JH
 KH QH KD AC
-
 -------
-
 92D
 Pass
 Pass
@@ -19884,9 +19744,7 @@ AH 9D KS QH
 7C 8C AC 7S
 8D KH AD QC
 JC QS 7D 8H
-
 -------
-
 82H
 112S
 Pass
@@ -20128,9 +19986,7 @@ KD 10D JD QC
 9S JS KS 7S
 10C 7C QS 9C
 8S AS 10S JC
-
 -------
-
 82C
 Pass
 Pass
@@ -20338,9 +20194,7 @@ JC JS 7S 10C
 10H 10S KH 9C
 QS 9S 8S 9D
 KC 8C 8D AS
-
 -------
-
 82H
 92H
 102D
@@ -20583,9 +20437,7 @@ AS JS KS 7D
 JD 9H KC KD
 QS KH QC 10D
 AH 10C 8H AC
-
 -------
-
 Pass
 Pass
 Pass
@@ -20860,9 +20712,7 @@ AD QD 8H 9C
 QC JC AC 7C
 9H AH QH 10H
 KC 10C 8C JH
-
 -------
-
 82H
 102C
 Pass
@@ -21106,9 +20956,7 @@ KS 9S 8S 10S
 QS AS JS 7S
 AH 8H 9D 10C
 KD QH 10H 8D
-
 -------
-
 82D
 80SANS
 92C
@@ -21391,9 +21239,7 @@ QD JS 10D JC
 7C AC 7D 8C
 10S 8D KS 10H
 QH QC JD KC
-
 -------
-
 Pass
 Pass
 Pass
@@ -21740,9 +21586,7 @@ JD 7D KD JC
 AC JS KC KS
 QC QH AD 10H
 AS 10S 8S JH
-
 -------
-
 82H
 102C
 Pass
@@ -21987,9 +21831,7 @@ QC 10C 7H 8C
 AD 7D JD KD
 8D 10D KH 9S
 AH 10S 7S KS
-
 -------
-
 82H
 Pass
 102S
@@ -22241,9 +22083,7 @@ AS KS 7D 9S
 AD 8D QH QD
 AC JD 7C QS
 8C KD KC JS
-
 -------
-
 Pass
 80SANS
 92C
@@ -22568,9 +22408,7 @@ AH QH AD 8D
 9D QD 10D KD
 AS JS QS 7S
 10C 10S 8S 7D
-
 -------
-
 Pass
 Pass
 Pass
@@ -22884,9 +22722,7 @@ QC QH 8S 9H
 KS 10S AS 8D
 KD 10D KH AD
 QS QD AH 10H
-
 -------
-
 Pass
 82C
 Pass
@@ -23165,9 +23001,7 @@ JC 8D 10C KC
 7D KH KD AD
 10S 9D KS JD
 9H QC 10D QD
-
 -------
-
 102H
 Pass
 112C
@@ -23412,9 +23246,7 @@ AH JH 7D 9H
 8H 10H KD KH
 QD AD 7H 10D
 KS QH AC 8D
-
 -------
-
 Pass
 82C
 92S
@@ -23751,9 +23583,7 @@ QC 8C AC 7C
 AH 8H KD QH
 QD JH KH 10C
 7D JC 9H 10H
-
 -------
-
 Pass
 Pass
 Pass
@@ -24067,9 +23897,7 @@ AH QH 8D AS
 KC 9C 10C AC
 KD QD QC 8C
 7C JC 10S KH
-
 -------
-
 112H
 Pass
 Pass
@@ -24324,9 +24152,7 @@ AS JS KS QS
 9S 8D 10D 7D
 10S JD 10C 9D
 JH QD KD AD
-
 -------
-
 82H
 Pass
 162H
@@ -24621,9 +24447,7 @@ AS 7D 8S 9C
 AD KH JD 9D
 QD 7H 10D KD
 KS AH 9S QH
-
 -------
-
 82H
 Pass
 92D
@@ -24866,9 +24690,7 @@ JH 7H 10H AH
 7S JD QS KS
 JC QD 10D 8H
 QH KD 8D AD
-
 -------
-
 82C
 92H
 Pass
@@ -25117,9 +24939,7 @@ AH QH JH KH
 KC QS KD JD
 QD 9D 8D AD
 10S 8C 10D 7H
-
 -------
-
 82H
 92S
 Pass
@@ -25363,9 +25183,7 @@ QC QS JH 8S
 9H AH 8D 8H
 9S 7S 10S AS
 QH JS 10H 9D
-
 -------
-
 Pass
 80SANS
 Pass
@@ -25659,9 +25477,7 @@ JC 7C QC 8C
 8D AD QD 10C
 7S KD 9D 9C
 9H JS 10D JD
-
 -------
-
 82S
 102H
 112C
@@ -25932,9 +25748,7 @@ KD QS QD 8D
 QH 10H KC JH
 8S 10S JS AS
 KS 9S AH 8H
-
 -------
-
 82H
 Pass
 92C
@@ -26215,9 +26029,7 @@ AD 8D 7D 9D
 JD KD 8H 10D
 JC JS 9S 10C
 AC 8S KS QD
-
 -------
-
 82C
 92D
 Pass
@@ -26475,9 +26287,7 @@ QS 8S KS 7C
 AD 7D 9D QD
 JD 10D 10C 8D
 9S KD AH AC
-
 -------
-
 82C
 Pass
 Pass
@@ -26797,9 +26607,7 @@ QS QC 8D KS
 7C KC 8C AC
 10C JC JH JD
 AH KD 10D 9C
-
 -------
-
 Pass
 82C
 Pass
@@ -27178,9 +26986,7 @@ KC KS 8C QS
 8S 7S 10S QH
 AS JH AC 9S
 10C JD KH 9H
-
 -------
-
 82H
 Pass
 92H
@@ -27435,9 +27241,7 @@ QS 7D KS 8C
 JC QD 7C AC
 AD JD KD 9D
 10C 9C 10D AH
-
 -------
-
 82D
 92C
 Pass
@@ -27706,9 +27510,7 @@ KC AC 7C 10H
 9D JH KD 8H
 JC 9C QH 9H
 QD AH AD KH
-
 -------
-
 82C
 92H
 112C
@@ -27954,9 +27756,7 @@ KS 7S JS JH
 9H 9S QH 10H
 AD QD 7H KC
 9D AH 8S 10C
-
 -------
-
 82S
 92H
 Pass
@@ -28216,9 +28016,7 @@ QC 7C 9S KC
 AC 9C JD 8D
 AD 10C 7D 10D
 JC 8C 8H QD
-
 -------
-
 Pass
 Pass
 82H
@@ -28502,9 +28300,7 @@ KD QS JD QC
 AC 10C 9C JS
 QH 8S 9S KS
 7H 10S 8C 7S
-
 -------
-
 92H
 102S
 Pass
@@ -28748,9 +28544,7 @@ JC AH 8C 10C
 10D 7D 7C QS
 QD 9C JS QC
 10H AC 10S KC
-
 -------
-
 Pass
 102C
 Pass
@@ -29008,9 +28802,7 @@ AH 7H 7S 9H
 10D KS 9S 9D
 QS JC AS JS
 10S 7D KH JH
-
 -------
-
 Pass
 Pass
 Pass
@@ -29312,9 +29104,7 @@ QC AC JC 7C
 JD 8D AD 7H
 KD JH KS QD
 QH AH JS 8C
-
 -------
-
 70SANS
 Pass
 82H
@@ -29594,9 +29384,7 @@ QD 9D 9S JD
 QS QC JC 10S
 7H 10H QH AC
 9C 7C JH JS
-
 -------
-
 Pass
 Pass
 Pass
@@ -29841,9 +29629,7 @@ AD KD 9S JC
 QH QS QD 8C
 AS 9C QC 10S
 10D AC 10C KC
-
 -------
-
 82D
 Pass
 Pass
@@ -30120,9 +29906,7 @@ KD QD AD 9H
 7H 10H 7C KH
 8H 9S QC JS
 QS 10S 10C 9C
-
 -------
-
 82S
 92H
 102S
@@ -30410,9 +30194,7 @@ KS AS 9S 9H
 JS 9D KD 8S
 QS QD 10H 7H
 7S QC KH 10D
-
 -------
-
 Pass
 82C
 Pass
@@ -30724,9 +30506,7 @@ JH QH 9C AH
 7S AS 8S KS
 10H 9D KC JS
 8C QS KH 10S
-
 -------
-
 Pass
 Pass
 Pass
@@ -31048,9 +30828,7 @@ KC 7S JC 8C
 9H 10C 7H 10H
 9S 8H KH JH
 9D AH 10D JD
-
 -------
-
 Pass
 Pass
 Pass
@@ -31350,9 +31128,7 @@ AH QS AS 7H
 8C 7D QD JC
 8D 10D AD 7S
 8H KD JD 10H
-
 -------
-
 92D
 Pass
 Pass
@@ -31634,9 +31410,7 @@ JC AC 8C AS
 7C 10C JS QD
 JD 9C QS KS
 7D KC 8S 10S
-
 -------
-
 Pass
 82C
 92H
@@ -31958,9 +31732,7 @@ JC 7C 9D 10C
 KD 7D 9C 10D
 JD QD 7H KS
 KH AC QC 8D
-
 -------
-
 Pass
 Pass
 Pass
@@ -32329,9 +32101,7 @@ KD QH JH 8C
 10C QC 7S 7H
 9H 8H KC AH
 KS JC 10S AD
-
 -------
-
 Pass
 Pass
 Pass
@@ -32573,9 +32343,7 @@ AD 9D JD QD
 8D 10D AC 9S
 KS 10S 7C QS
 7D KD 10H KC
-
 -------
-
 102S
 Pass
 Pass
@@ -32826,9 +32594,7 @@ QC KS AC 10C
 9S 10H JD 10S
 8D QD 10D 7D
 KD JS AD JC
-
 -------
-
 Pass
 82H
 92S
@@ -33173,9 +32939,7 @@ AD 8H 10H 7D
 JC 8C 7C 10C
 AC KC AH QC
 9D QD JH QH
-
 -------
-
 Pass
 82D
 Pass
@@ -33478,9 +33242,7 @@ AD JD KD QS
 KS 9S 10S 7S
 AS AH KC 10C
 7C JC 7H 8S
-
 -------
-
 82H
 92D
 Pass
@@ -33752,9 +33514,7 @@ KH 9C QC KD
 AC 8C 10C 8S
 KC 7H 7C 9S
 JC AH AS KS
-
 -------
-
 92H
 Pass
 122S
@@ -33998,9 +33758,7 @@ AD KD JD 7H
 9S JS KH 7S
 JC 8C 10C 7C
 10S KC QC AC
-
 -------
-
 112H
 Pass
 Pass
@@ -34244,9 +34002,7 @@ QC KC 10C AC
 JC 8C 7C 9C
 KH 10H AH 8H
 QH 7H 7D 9H
-
 -------
-
 92H
 Pass
 Pass
@@ -34553,9 +34309,7 @@ AH 10H QH 7H
 KH AS 8H JH
 10C QS 9H 9D
 9S KD 7D 10D
-
 -------
-
 82S
 Pass
 Pass
@@ -34834,9 +34588,7 @@ AC JC KC 10S
 QH QS 8D KS
 9S AS QC KD
 9C 7H 7C 10C
-
 -------
-
 70SANS
 82C
 80SANS
@@ -35132,9 +34884,7 @@ AD QS QC QD
 KD 7S 10S KC
 JD 10C AC JS
 JC 8C AS KS
-
 -------
-
 82H
 92C
 102H
@@ -35456,9 +35206,7 @@ KD JS JC 7S
 8D 8S 8C 9C
 KS AC QS AS
 10C 7H 7C 10S
-
 -------
-
 Pass
 Pass
 82S
@@ -35752,9 +35500,7 @@ AD JD 8D 9D
 JC QC 10C AS
 KH KD 10H KS
 10D 7D KC QD
-
 -------
-
 70SANS
 82D
 102C
@@ -36013,9 +35759,7 @@ QS JS KH 7C
 10C QD 7S JD
 AC 9H 10H 9D
 9C 7H AS KD
-
 -------
-
 82D
 Pass
 Pass
@@ -36401,9 +36145,7 @@ QH 8H 10H 7H
 AH 9H 9D KH
 10C JH 8S KD
 QS 10D 7D AD
-
 -------
-
 Pass
 Pass
 Pass
@@ -36732,9 +36474,7 @@ KS 8S 9S 7S
 AH QH 10C JH
 AC 7C KC 10H
 JS QS KD AS
-
 -------
-
 82S
 92C
 Pass
@@ -37008,9 +36748,7 @@ AH 8H QH 7H
 KH JD 10H 8C
 9S 10D QD 8D
 KD 7D AD 9H
-
 -------
-
 82H
 Pass
 Pass
@@ -37325,9 +37063,7 @@ AS JS 9D 10S
 QS KS 10H 8D
 AD 10C 7D JD
 QD QC JC KC
-
 -------
-
 82S
 Pass
 92H
@@ -37573,9 +37309,7 @@ KH JD 7H KS
 8D 7D 10D AD
 9H AS 9D QD
 10C 9C QC KD
-
 -------
-
 82S
 80SANS
 Pass
@@ -37897,9 +37631,7 @@ AS JC 8S QS
 7H AH KH 10H
 QC KD 9H QH
 AD JH 10D 8H
-
 -------
-
 82D
 92S
 112D
@@ -38164,9 +37896,7 @@ KC AC JD 8S
 AD 10D KD 9D
 QH 9S 8D 7S
 8H QS 7D 10C
-
 -------
-
 82C
 92D
 Pass
@@ -38475,9 +38205,7 @@ JS 7C JC 7D
 AC 9C QC QD
 JH 9D JD 10H
 KD KC 8D 8C
-
 -------
-
 80SANS
 Pass
 Pass
@@ -38743,9 +38471,7 @@ JS 8S QS KS
 AS 10S 7S 8H
 9D QC 7C KH
 9H JD AC QH
-
 -------
-
 80SANS
 Pass
 162H
@@ -39028,9 +38754,7 @@ KC 9S 7C KD
 QD 10D 8D 10S
 AS QH JD KS
 AC 8H QC JH
-
 -------
-
 Pass
 82D
 Pass
@@ -39280,9 +39004,7 @@ KD JD 7D AD
 9D QD 10D 8S
 7C 10C 8C AC
 QC 10S KC 9C
-
 -------
-
 82S
 Pass
 92H
@@ -39586,9 +39308,7 @@ AC 7C 9C JC
 AD 10D JD 7D
 9D 10C QD KD
 8D KH QC 8C
-
 -------
-
 82C
 92C
 Pass
@@ -39883,9 +39603,7 @@ JD QD 8D 7D
 9D AD 9S 9H
 AH JS KS 8S
 QC 10S AS KD
-
 -------
-
 82S
 Pass
 Pass
@@ -40185,9 +39903,7 @@ KD 7H 9D 7S
 KC 10S QC JS
 10D 10H KH QS
 AD AS 9H KS
-
 -------
-
 82S
 Pass
 Pass
@@ -40541,9 +40257,7 @@ QD 9D 7D QC
 AD 9H 9C JC
 AH KC AC JH
 QH 10C 8C KS
-
 -------
-
 Pass
 102H
 112C
@@ -40833,9 +40547,7 @@ JD AD 7D 9D
 7S 7C JS KD
 KH QC 7H AS
 10D QD 9C 10C
-
 -------
-
 82H
 Pass
 Pass
@@ -41116,9 +40828,7 @@ KD JS 9D AD
 AH 8H 9H 7H
 JH QH 10H QS
 QD KC KH KS
-
 -------
-
 82H
 92C
 102H
@@ -41368,9 +41078,7 @@ QD 10D QC 8S
 JS KS AS 10S
 9S QH KH QS
 10H 8D 7H KC
-
 -------
-
 82H
 92D
 102H
@@ -41676,9 +41384,7 @@ QS JS 10S 7C
 10C QD AC JC
 9D 7H 10D AD
 AH 7D KD JD
-
 -------
-
 Pass
 82H
 92S
@@ -42052,9 +41758,7 @@ JD 9S 10C KC
 7H 10H QH 9C
 QS JC 8C 9H
 8S 7C AC QC
-
 -------
-
 82S
 92H
 Pass
@@ -42413,9 +42117,7 @@ AH 8H JH KH
 7C 10C QC 9C
 KC 8C KD AC
 10H 10D JC KS
-
 -------
-
 132H
 Pass
 Pass
@@ -42652,9 +42354,7 @@ AC JC 9C 7C
 7S KS 8C KC
 9S 10D QD KD
 AH JD 9D 10C
-
 -------
-
 102D
 Pass
 Pass
@@ -42928,9 +42628,7 @@ KS 9S JS AS
 10S AH 7S 8S
 QC 9D 7H 10C
 QS AD KC KD
-
 -------
-
 122S
 Pass
 Pass
@@ -43170,9 +42868,7 @@ KS 8C 8S JS
 QH KC JD QC
 8D AD KD QD
 AC 10D 7D 9D
-
 -------
-
 Pass
 Pass
 102C
@@ -43429,9 +43125,7 @@ AS 7S KS JS
 AD 8D JD 8C
 KC 10C 9C QS
 10S 9S 8S 10D
-
 -------
-
 112D
 Pass
 122H
@@ -43676,9 +43370,7 @@ AH 9H QH 7H
 8H 10H 7C KC
 KH 10C QC KS
 JD QD KD 9S
-
 -------
-
 Pass
 Pass
 Pass
@@ -43998,9 +43690,7 @@ AC QS 10C QC
 8S 7C JC 9C
 7S 8C QH KC
 JD 8D KD 9H
-
 -------
-
 Pass
 Pass
 Pass
@@ -44292,9 +43982,7 @@ QS JS AS 8S
 AC 7C JH 8C
 KC 10C 10S 9S
 KD AH 10H QC
-
 -------
-
 70SANS
 Pass
 82H
@@ -44544,9 +44232,7 @@ QH AH 9H 7S
 10S JS 9S AS
 QC 8C KS 8H
 QS 7H 8S 8D
-
 -------
-
 82H
 80SANS
 Pass
@@ -44848,9 +44534,7 @@ AH KH 7D 9S
 7C AC JC 9C
 JD QD 7S QC
 10C KC 8H 10H
-
 -------
-
 Pass
 Pass
 Pass
@@ -45136,9 +44820,7 @@ AC QC JC 9C
 7D 9H AD 8D
 KC 7S JD QH
 10D KD 10H QD
-
 -------
-
 82C
 Pass
 112C
@@ -45417,9 +45099,7 @@ AD 8H 9D JD
 10C 7D 8C JC
 QC QH AC 7S
 QD 7H AH 10D
-
 -------
-
 Pass
 82S
 80SANS
@@ -45707,9 +45387,7 @@ KH 10H 7C 9H
 10D QD JD 7H
 10C KC JH QS
 QC QH 8D AH
-
 -------
-
 92H
 102D
 112S
@@ -45962,9 +45640,7 @@ KS 7S 9S QS
 QD 10D 7D QH
 10H JH 9C KC
 9H 8D 8C JC
-
 -------
-
 102S
 Pass
 112S
@@ -46206,9 +45882,7 @@ JD 8D JS 7D
 10H QH 9H 7H
 AH 10D 8H QC
 KD KH 10C AC
-
 -------
-
 82D
 92S
 102D
@@ -46478,9 +46152,7 @@ AD 7D KD 9D
 AS 8C JD 8D
 JS 10C JC JH
 QS 10D 9C 10H
-
 -------
-
 Pass
 82D
 Pass
@@ -46795,9 +46467,7 @@ AD 9D 8C 7D
 QD 7H 10H KD
 9H JC KC AH
 QH 9C 10D JS
-
 -------
-
 82D
 92H
 102D
@@ -47105,9 +46775,7 @@ AC 7C 10C JC
 KC AD QC QH
 8H 7H 10H 8C
 8D 10S 9S KS
-
 -------
-
 82S
 80SANS
 92S
@@ -47411,9 +47079,7 @@ KH QH 8C 9H
 QC 8H 8D AS
 AD JD 9S 9D
 7D KD 7S QD
-
 -------
-
 Pass
 82C
 Pass
@@ -47761,9 +47427,7 @@ AS 9H 9S 8S
 AD 8D 7H 7C
 QC JH 10H AH
 7S KD 8H KS
-
 -------
-
 102D
 112S
 Pass
@@ -48076,9 +47740,7 @@ JH 8H QD 10H
 8D 10D AD JD
 AS 7S 9S QH
 KD JS AH 9D
-
 -------
-
 82D
 90SANS
 Pass
@@ -48401,9 +48063,7 @@ JD 10D QD 8D
 AC QS 7C JC
 7S 8S AS KS
 JS 10S 9S 10H
-
 -------
-
 92S
 Pass
 Pass
@@ -48647,9 +48307,7 @@ AD 9D JD 8D
 KD 10D 9S KH
 JC AH QS AC
 7D KS 10S 9H
-
 -------
-
 82S
 112H
 Pass
@@ -48886,9 +48544,7 @@ QC 9S 9D 7H
 KC JS 8S 7D
 10S QS 8H AS
 KS 10C 7S 10H
-
 -------
-
 92C
 102D
 112S
@@ -49138,9 +48794,7 @@ AS JC 7H QS
 AD 8C KD JD
 JS 8S QD 10C
 8H QH AC 10H
-
 -------
-
 122H
 Pass
 Pass
@@ -49382,9 +49036,7 @@ QD 8H KD KS
 9C 9D QH JC
 JH 10S AH KH
 KC JD 10H 8C
-
 -------
-
 82S
 Pass
 Pass
@@ -49705,9 +49357,7 @@ AS 9S 10S 9D
 QC 8C 10C 7C
 KC JC KH KS
 AH AD AC QD
-
 -------
-
 Pass
 82S
 Pass
@@ -50076,9 +49726,7 @@ JH 7C 8H JS
 10C QS 10D 9S
 AS KS 7S 7H
 KC 10H 10S KD
-
 -------
-
 92D
 102S
 Pass
@@ -50328,9 +49976,7 @@ JH 10H 8D QH
 10S QS 7S 9S
 AS JS KC KD
 JC KS QC AC
-
 -------
-
 102C
 112H
 122C
@@ -50577,9 +50223,7 @@ AH JH 9H QH
 JS 8S AS KC
 KH KS 10H 9S
 QS 7S 9C 10S
-
 -------
-
 82H
 92S
 Pass
@@ -50840,9 +50484,7 @@ QS KD QD QC
 JC 10C 8C AC
 10D 9D AD 8D
 KC 8H JD AH
-
 -------
-
 92S
 Pass
 112S
@@ -51091,9 +50733,7 @@ JC 10C 7C 10D
 QS QD 9S 7H
 8D QH JH AD
 KH 10S KC 8S
-
 -------
-
 Pass
 92S
 102C
@@ -51449,9 +51089,7 @@ KS 10C 9S 10S
 9H QD JS JD
 KD AD AC 7D
 QS 10D 9D AS
-
 -------
-
 82S
 80SANS
 92S
@@ -51719,9 +51357,7 @@ AS JS 8S 7S
 KD JD 10D QC
 7C KC KH QS
 QH 10S 9C KS
-
 -------
-
 Pass
 Pass
 Pass
@@ -52094,9 +51730,7 @@ QS 7S 10S KS
 8H 10C 8S 10H
 9S QD JS QH
 JH AH JD KD
-
 -------
-
 102H
 Pass
 Pass
@@ -52341,9 +51975,7 @@ AD 8H QD 8D
 10H KH 9D 9H
 AH JH AS QH
 8S 8C 10C 9C
-
 -------
-
 80SANS
 102H
 Pass
@@ -52599,9 +52231,7 @@ JC QD 8H QC
 JH AH 10H QS
 KH QH JS 7S
 9H 10D 10S 9D
-
 -------
-
 Pass
 Pass
 Pass
@@ -52911,9 +52541,7 @@ KC 8C AC QH
 AS 7C 8D QS
 QD 9C 10D KD
 7H QC JC 10C
-
 -------
-
 82D
 Pass
 Pass
@@ -53242,9 +52870,7 @@ AH 7H 9S 8D
 AC QC 8C JC
 10D 9D 8S QD
 KH JD 7S 10S
-
 -------
-
 Pass
 82S
 92H
@@ -53540,9 +53166,7 @@ AC QC KC 7D
 JC AD KH QD
 JH 10H 8H AH
 10D 8S 7H QH
-
 -------
-
 82D
 Pass
 102S
@@ -53775,9 +53399,7 @@ Pass
 JD 7C 8C 9S
 8S 10C 10S AS
 KS QS AC 7S
-
 -------
-
 82D
 Pass
 162D
@@ -54080,9 +53702,7 @@ AD 7D KC 8D
 10C 8C KS QS
 10D JS JD KD
 9D 9C AS QD
-
 -------
-
 70SANS
 Pass
 82C
@@ -54353,9 +53973,7 @@ KS JD 10H 7S
 7H AH JH 9H
 QH 8D KC KH
 10S QD 9D QS
-
 -------
-
 82S
 Pass
 92H
@@ -54600,9 +54218,7 @@ JD 8C 7D AS
 AH 9H JH 8S
 QD 7C JC KC
 QC 9C AC 10C
-
 -------
-
 82C
 102S
 Pass
@@ -54854,9 +54470,7 @@ AC JH JC 8H
 7D QD 10S AD
 7H 10H 7S AH
 KD 10D 9H KH
-
 -------
-
 Pass
 Pass
 Pass
@@ -55180,9 +54794,7 @@ AH 8H 10H 7H
 10S QC KS 7S
 9S 10C JH 7C
 10D QH 8C 9H
-
 -------
-
 Pass
 82S
 Pass
@@ -55437,9 +55049,7 @@ AC 8C 9C JC
 9S KS JS KC
 8S 10D KH 7C
 AD QC QH 10C
-
 -------
-
 80SANS
 Pass
 92D
@@ -55755,9 +55365,7 @@ AC QD 8S 8C
 7D AD JD 10D
 KS 9D KC AH
 JC AS KD QC
-
 -------
-
 Pass
 Pass
 Pass
@@ -56012,9 +55620,7 @@ QS 9S 7S AS
 KH QH 10H AC
 7D KD 7C 8S
 7H KS 9D QD
-
 -------
-
 82D
 Pass
 Pass
@@ -56345,9 +55951,7 @@ AH 7H 8H QH
 KC JH 7S 9H
 QD AD 9D 10H
 JD KD KS JC
-
 -------
-
 92D
 Pass
 Pass
@@ -56619,9 +56223,7 @@ KH 8D 8H QH
 JH 9C 9D KS
 8C KD JD QC
 7D QS AD QD
-
 -------
-
 92D
 Pass
 102C
@@ -56869,9 +56471,7 @@ JC QC KC 10C
 AS QS 10S 7S
 9H JD 10D 8D
 JS KS 7C AD
-
 -------
-
 Pass
 102S
 112H
@@ -57141,9 +56741,7 @@ AD 8D 7D 9D
 KD 10D QS KS
 JS 7S QD 9S
 AS JD QH KC
-
 -------
-
 Pass
 Pass
 Pass
@@ -57476,9 +57074,7 @@ QS QD 10H 8H
 7S JD 10D 9H
 AD JC 7D KH
 KD 9C AH KC
-
 -------
-
 Pass
 Pass
 80SANS
@@ -57762,9 +57358,7 @@ AC 9C 8C QC
 7S 9H JS 9D
 7D 10C 7C 7H
 9S KC JC KH
-
 -------
-
 92D
 112C
 Pass
@@ -58020,9 +57614,7 @@ AC 8H 7S 7C
 JD KD QC KC
 AH 7H KH JH
 AS 10H QH 8D
-
 -------
-
 80SANS
 Pass
 92D
@@ -58344,9 +57936,7 @@ KS QS 9S AS
 JS 7D 10S 8C
 QC JC AC 9C
 9H 10C AD KC
-
 -------
-
 92H
 Pass
 102S
@@ -58588,9 +58178,7 @@ KS 7S QS AS
 10S 9S 8S JS
 QD 9D AD 7C
 AC 10C KD QC
-
 -------
-
 92C
 Pass
 112C
@@ -58844,9 +58432,7 @@ AH 7D 9D KH
 JC JS 8C AC
 JD 10D 8S 7C
 AD AS KC KD
-
 -------
-
 92D
 Pass
 102C
@@ -59118,9 +58704,7 @@ JC QC JH 8C
 9S 10C AS QS
 QD 10S KS 7D
 KC 10H 7S JS
-
 -------
-
 102C
 112H
 122C
@@ -59382,9 +58966,7 @@ KH AH JH JC
 10C QC AC 7C
 QD JD 7D 7S
 10H KC 9D 9C
-
 -------
-
 Pass
 82S
 90SANS
@@ -59737,9 +59319,7 @@ QD 9H JD 10D
 KH KC 8H AH
 10H 8C 10C 7H
 QH QC 9C AC
-
 -------
-
 Pass
 Pass
 82C
@@ -60035,9 +59615,7 @@ QS 10S AS 9D
 9H KD 8H 9S
 AD 8D JD QD
 10H 10D 9C 7D
-
 -------
-
 92S
 Pass
 Pass
@@ -60332,9 +59910,7 @@ AC 8C 7H 8S
 7C 7S 9S 8H
 AS JS 10D KS
 QC 10S AH 10H
-
 -------
-
 82D
 Pass
 92D
@@ -60631,9 +60207,7 @@ AS 8S 9S JS
 QS KS 7S 10S
 QC 10H JD 7C
 7H 10D KH 10C
-
 -------
-
 82H
 Pass
 Pass
@@ -60997,9 +60571,7 @@ KS 9H 9S 9C
 10C JC 7C 10D
 KC JD KH AD
 AH AS 7H 7D
-
 -------
-
 Pass
 Pass
 Pass
@@ -61307,9 +60879,7 @@ JS KS 10S 8S
 AD QD 9D 10D
 7D 10H 8D 7S
 7H AS 8H 9S
-
 -------
-
 Pass
 Pass
 Pass
@@ -61670,9 +61240,7 @@ QH JH AH 8H
 AD 8D KD 9C
 7D 9D 10D JC
 10C KC AS QD
-
 -------
-
 92H
 Pass
 102H
@@ -61918,9 +61486,7 @@ QC KC 10C AC
 10S 8D KD 9C
 JD 10D 7D QD
 AH 9D AD AS
-
 -------
-
 122C
 Pass
 Pass
@@ -62180,9 +61746,7 @@ KC JC 7D AH
 8D 10D AD QH
 QS 9D 7C 7S
 10S QD 10C KD
-
 -------
-
 82H
 Pass
 Pass
@@ -62480,9 +62044,7 @@ AH 9H 8D JH
 7S 9S JS JD
 10D KD KS QD
 QS QH 7H AS
-
 -------
-
 82H
 Pass
 80SANS
@@ -62752,9 +62314,7 @@ AD QC JD 8D
 AC 10C 9S KS
 QS 7S 8S AS
 10S AH JS 8H
-
 -------
-
 82C
 Pass
 Pass
@@ -63062,9 +62622,7 @@ QC AD JD 9C
 QH AC 8H QS
 9D KD JS 7D
 QD 10S 9S KC
-
 -------
-
 92H
 132S
 Pass
@@ -63329,9 +62887,7 @@ QC 10C 8C AC
 KD JD 8D AD
 10D QD 9H 9D
 7D QH 7S 7C
-
 -------
-
 Pass
 102C
 Pass
@@ -63575,9 +63131,7 @@ AS 9C KS 10S
 AD JD KC JC
 QD 7C 8C QC
 10C AC JS QS
-
 -------
-
 82D
 92C
 Pass
@@ -63825,9 +63379,7 @@ AS 10D JS 8S
 7H QS QH 9H
 KH AH 10H 10S
 9S AD KS 7S
-
 -------
-
 70SANS
 Pass
 82S
@@ -64155,9 +63707,7 @@ AC 9C 10C KC
 QC JC 8C AS
 JD KS JH 9S
 8S JS 7C KH
-
 -------
-
 82D
 92H
 Pass
@@ -64454,9 +64004,7 @@ AD QD 7D JD
 10C 9C JC 9S
 8S AS JS QS
 KC 10S 7S 9D
-
 -------
-
 82S
 Pass
 Pass
@@ -64734,9 +64282,7 @@ AH 7H KH 9H
 JC QH 10S 8C
 7D JH AS 10D
 8H 10H 9D KC
-
 -------
-
 Pass
 82S
 Pass
@@ -65001,9 +64547,7 @@ JS 7S KH 9C
 10C JC KD QC
 10D 8H AS 8D
 9S 7D AH 9H
-
 -------
-
 92H
 122S
 Pass
@@ -65244,9 +64788,7 @@ AC 9H 8C QC
 KC JD 10C 7H
 7C KH QS QH
 7S 10H 8H AH
-
 -------
-
 82C
 92D
 102C
@@ -65529,9 +65071,7 @@ JC KC 8C AC
 9H QH 9S JH
 8H 9C AH KH
 AD 10H QC 10C
-
 -------
-
 82D
 Pass
 Pass
@@ -65819,9 +65359,7 @@ KC QS KS JD
 KH 10S 9D QD
 JS AS 8S AD
 10D 7D KD QH
-
 -------
-
 92S
 102C
 Pass
@@ -66070,9 +65608,7 @@ AD 9D 10D 7D
 AH 7H 10S 8S
 JH QH KC KD
 7C AS QD JD
-
 -------
-
 82H
 Pass
 Pass
@@ -66329,9 +65865,7 @@ AD 10D KS 8H
 10H KD 9H QC
 AC 10C 9C 8C
 7C KC JC QH
-
 -------
-
 Pass
 Pass
 82S
@@ -66700,9 +66234,7 @@ KH JC QC QH
 8H 7C 8C 8D
 9C 10C KS AC
 KC AD JS 10S
-
 -------
-
 Pass
 82C
 Pass
@@ -66969,9 +66501,7 @@ AS AC QS KS
 QC JC 8C 10S
 8H JS 9S 10C
 KC KH 7S 8S
-
 -------
-
 80SANS
 Pass
 Pass
@@ -67275,9 +66805,7 @@ AH JS 7H JH
 8D 7C 10C JC
 8S QC QS KC
 9C KH 7D AC
-
 -------
-
 70SANS
 Pass
 92H
@@ -67540,9 +67068,7 @@ QC 10C KC 10D
 KS 10H JS 8S
 AH QS JC AS
 7H QD 8D 10S
-
 -------
-
 92H
 Pass
 Pass
@@ -67839,9 +67365,7 @@ QH 8H KH 9H
 10C KC AC 7C
 JD 7D 8C QD
 AD KD 9D QC
-
 -------
-
 82S
 102H
 Pass
@@ -68102,9 +67626,7 @@ QD AD KD 8C
 QS KH KC 7C
 KS 10D 7D JD
 AS 8D JH 10H
-
 -------
-
 82S
 Pass
 92D
@@ -68402,9 +67924,7 @@ AS QS KC 9S
 JS 9C JH JC
 QH AH 7H 8H
 9H KH AC AD
-
 -------
-
 92D
 Pass
 Pass
@@ -68658,9 +68178,7 @@ QH 10H 8H 8C
 KH 9C JD 8S
 JC 10C 7C QC
 8D 10D AC KC
-
 -------
-
 Pass
 80SANS
 Pass
@@ -68935,9 +68453,7 @@ AS 7S QS 8S
 AD JD KD 9D
 7C KC 8H 10C
 JS KS QC 10S
-
 -------
-
 Pass
 Pass
 82D
@@ -69286,9 +68802,7 @@ AS 7S QS 9S
 AH 8H JS 8C
 QH KH 8D KS
 8S 10S 10D 9C
-
 -------
-
 Pass
 Pass
 Pass
@@ -69623,9 +69137,7 @@ JD 9D 9H KD
 7C KC KS AC
 JH 9C 7S 10D
 10C QD 10S JC
-
 -------
-
 82C
 92S
 112C
@@ -69939,9 +69451,7 @@ KS JS JH 9H
 QC 10D 7C 10C
 10H JC KH 7S
 QS AC 9C KC
-
 -------
-
 82C
 92D
 Pass
@@ -70242,9 +69752,7 @@ AS 8S QS 9H
 9C AC KD 8C
 KH 7H JH AH
 QC 10H 10C AD
-
 -------
-
 Pass
 Pass
 Pass
@@ -70579,9 +70087,7 @@ AS 9S 7S 10S
 KS JS 8H QC
 QS 8C 7C KC
 8S JC 10C AC
-
 -------
-
 102C
 112D
 122C
@@ -70862,9 +70368,7 @@ JS 8D AS QD
 7D AD KD JC
 AH 7H JH QS
 10D KH 10H 9H
-
 -------
-
 Pass
 Pass
 Pass
@@ -71199,9 +70703,7 @@ JC QH 7C QC
 JH JD 8C KH
 10D 7D 8D 10H
 AS 9H 10C 7S
-
 -------
-
 Pass
 82C
 Pass
@@ -71545,9 +71047,7 @@ AD JD QD 9D
 JC 7H AC 7C
 QC 9C 10C KD
 8C 10H 9H QS
-
 -------
-
 102D
 Pass
 Pass
@@ -71789,9 +71289,7 @@ JS QS AS 8S
 AC 8C 10S 10C
 QC 9C KS QH
 AH 7C 8H KD
-
 -------
-
 70SANS
 Pass
 82S
@@ -72059,9 +71557,7 @@ KH 10C AH 7H
 9S 10S QH 8S
 JS QD 8D KC
 JD AD 10D JH
-
 -------
-
 82S
 92C
 102D
@@ -72370,9 +71866,7 @@ AH 10H QC 9H
 7H JD 8S KC
 10D 9C KD 10C
 8D AC JS 7C
-
 -------
-
 Pass
 Pass
 70SANS
@@ -72697,9 +72191,7 @@ AH 9H KH 7S
 QH KC QC JS
 7H KS QD AS
 AD 10C 7C 10S
-
 -------
-
 82D
 Pass
 102H
@@ -72950,9 +72442,7 @@ AC 9C KC KS
 QD JH 7H 8H
 7C QH QC 10C
 10H JC AH 8C
-
 -------
-
 Pass
 Pass
 Pass
@@ -73231,9 +72721,7 @@ AH 8C 10H 7H
 AS QS JS 8S
 9S KC 10S KS
 AC 9H 7S QC
-
 -------
-
 82S
 Pass
 Pass
@@ -73545,9 +73033,7 @@ QC 9H KC AD
 7D 10D KD QS
 10S 8S 10H KS
 QH 9D JD 8D
-
 -------
-
 Pass
 Pass
 Pass
@@ -73885,9 +73371,7 @@ AS 9S 10D 8S
 KS QD 10H JS
 KH KD 9H 10C
 AC 10S 9D QH
-
 -------
-
 Pass
 Pass
 Pass
@@ -74194,9 +73678,7 @@ AS 9S 8S 7C
 9C KC KS AC
 JC 7S AH 10S
 QC 7D 7H JS
-
 -------
-
 Pass
 Pass
 92D
@@ -74514,9 +73996,7 @@ KD AD 7D 7H
 KS JC 10C 10D
 10H 8D KC 8C
 9H QD AC QC
-
 -------
-
 Pass
 82D
 Pass
@@ -74769,9 +74249,7 @@ QD QS 10C JC
 9C 7C 8S KC
 QC 7S JS QH
 AS 10S 9S KH
-
 -------
-
 102S
 Pass
 Pass
@@ -75022,9 +74500,7 @@ JH JS QH AH
 8C 7H AC 10S
 QD QS 7S 8S
 AS KS 10H 9S
-
 -------
-
 Pass
 Pass
 Pass
@@ -75398,9 +74874,7 @@ AH 7H 9H QH
 AD JD JC KD
 9D QD AS JH
 10H 7C QC 10D
-
 -------
-
 70SANS
 Pass
 82C
@@ -75714,9 +75188,7 @@ AH QH 9H KS
 9S AS 7S JH
 8S 10S QC JS
 KH 9D QS 10D
-
 -------
-
 82C
 92S
 102C
@@ -75968,9 +75440,7 @@ AC JC QC 9C
 10D 9D QD 9S
 AH 7S 8C 7C
 KH JD 10C KC
-
 -------
-
 82D
 112C
 Pass
@@ -76217,9 +75687,7 @@ JD JS KC 9S
 AS QS 8S KS
 8C AC 7C QC
 10S 9C JC 10H
-
 -------
-
 102C
 Pass
 112C
@@ -76483,9 +75951,7 @@ KS 7S 8H JD
 10S QD 7D JH
 KC 10D 9D KH
 8C KD AH AD
-
 -------
-
 122H
 Pass
 Pass
@@ -76736,9 +76202,7 @@ KH JD KC 7H
 JH JC KD 10D
 8H 10C 9D QC
 AH AC KS AD
-
 -------
-
 102D
 Pass
 112H
@@ -76997,9 +76461,7 @@ AS 8C 10S QS
 KC JC AC 10C
 QC 8H 9C JH
 7C JS 9H QH
-
 -------
-
 Pass
 Pass
 Pass
@@ -77284,9 +76746,7 @@ KH 10H 8H QS
 AS KS JS 7S
 10D 8D JD 7D
 AD 10S 8S 9S
-
 -------
-
 Pass
 82D
 92S
@@ -77566,9 +77026,7 @@ QC KH AC 8C
 10S QH 8H 9D
 QD AD 9C KD
 10H AH JD 7S
-
 -------
-
 82D
 92S
 90SANS
@@ -77850,9 +77308,7 @@ AS 7S JS 8S
 9D KC QH 9C
 KD 9H JH KH
 10D AH 8C 10C
-
 -------
-
 82H
 Pass
 Pass
@@ -78105,9 +77561,7 @@ QC QS AC 8C
 AH 9S KS 8H
 KC JS QD QH
 10S 8S 7S AS
-
 -------
-
 82C
 80SANS
 Pass
@@ -78491,9 +77945,7 @@ KH JS 10S 8S
 9H 9D KS 8C
 8H 8D QS JC
 9C KD AD 10C
-
 -------
-
 Pass
 Pass
 Pass
@@ -78819,9 +78271,7 @@ KC 10C JC 8S
 JS 10S 7S 9S
 AH 9H JH AD
 QS AS 10H QH
-
 -------
-
 82D
 Pass
 Pass
@@ -79129,9 +78579,7 @@ QS AS JD 9S
 9H 7S QC KD
 8S KS 9C 10C
 JS 8D 7C 10H
-
 -------
-
 82S
 92H
 102C
@@ -79406,9 +78854,7 @@ AS 7S 8S QS
 KS 9C JS 10S
 AC JC 10C 8C
 9S QC 10H 7C
-
 -------
-
 92D
 Pass
 Pass
@@ -79729,9 +79175,7 @@ AC 9H 8C 7C
 KC 7H 10C 9S
 KH 10H 7D JS
 JC 10S 8D KS
-
 -------
-
 92D
 102S
 Pass
@@ -79994,9 +79438,7 @@ JD 8H 8D KC
 AC JC 7C QC
 8C 10C 9C 10D
 7D KS AH 9S
-
 -------
-
 Pass
 Pass
 82C
@@ -80237,9 +79679,7 @@ QH 8S KH 9H
 KD JC 8D QD
 8C QC 7C AC
 KC JD 10H QS
-
 -------
-
 Pass
 Pass
 Pass
@@ -80508,9 +79948,7 @@ KD 7H 7D 9D
 AS 9S 7S JS
 QD QS KS 10S
 8S KH 10C 10H
-
 -------
-
 82C
 Pass
 92H
@@ -80795,9 +80233,7 @@ KH 10H KS 7H
 8S 9S 8C KC
 AC QC JC 10C
 7C JH 9C 10S
-
 -------
-
 Pass
 82S
 92D
@@ -81059,9 +80495,7 @@ JC 10C 9C 7C
 QH 9D 8D QD
 9H JD KD KS
 7S 10D AD 10S
-
 -------
-
 82C
 92S
 Pass
@@ -81335,9 +80769,7 @@ QD 7D JD KD
 KC 10C JC 10H
 7H 10D JH 9C
 AD KS 9D 9H
-
 -------
-
 82H
 Pass
 112H
@@ -81615,9 +81047,7 @@ JH KH AH 9S
 7C QC QH KC
 JD 8D 7D AD
 KD 10D AS 8H
-
 -------
-
 112S
 Pass
 Pass
@@ -81873,9 +81303,7 @@ QH QC 7D KS
 KD QS 8D AD
 10C JC KC QD
 10S JH AS 10D
-
 -------
-
 82D
 Pass
 Pass
@@ -82137,9 +81565,7 @@ AS JS KD QC
 10D AD QH 8D
 10C JD 8C KC
 KH 7D QD 9D
-
 -------
-
 82H
 Pass
 Pass
@@ -82444,9 +81870,7 @@ AD 8D QD 9C
 JD 9S 10S QS
 KS 8S 7S AS
 10C 8C QC 7H
-
 -------
-
 82C
 102S
 112C
@@ -82680,9 +82104,7 @@ AC 9S QC 9C
 AS 8S 7S KS
 9D JS 10D KC
 JD 10S AH JC
-
 -------
-
 Pass
 102S
 112D
@@ -82924,9 +82346,7 @@ AH 7H 9H QH
 JS 10S 9S 8S
 AC 8C 10H KH
 AS 8H 7S KS
-
 -------
-
 Pass
 Pass
 82C
@@ -83251,9 +82671,7 @@ AD JD 9D 7D
 KD QD QH QC
 KS 9H 8H KH
 JS 8D 7C AH
-
 -------
-
 82S
 Pass
 Pass
@@ -83504,9 +82922,7 @@ AS QC 7S QD
 AD 8D 9D 7D
 10C JD 10D 7C
 JC KD KH KC
-
 -------
-
 Pass
 Pass
 82S
@@ -83808,9 +83224,7 @@ JH KH QH 8H
 JS KS AS 9S
 AH 9D 8S 7H
 7C QD 7S 10S
-
 -------
-
 Pass
 70SANS
 Pass
@@ -84097,9 +83511,7 @@ AS 9S 8S 8H
 AC QS QC 8C
 9C KS 7C 10C
 KH 10D 10S 7S
-
 -------
-
 82S
 Pass
 102D
@@ -84374,9 +83786,7 @@ AS 9S KS 7D
 8H 10H KC JH
 JC 10D QS JD
 QC QD 9H 10S
-
 -------
-
 Pass
 Pass
 80SANS
@@ -84651,9 +84061,7 @@ AS 8S 9S 9C
 JC QS AC 7C
 KS QC 8H JS
 9H 10S 7S 10C
-
 -------
-
 Pass
 82H
 80SANS
@@ -84959,9 +84367,7 @@ QS KS 9S 7S
 8S JS AS QC
 7D QH KC JH
 QD AH JC 10S
-
 -------
-
 82H
 Pass
 102S
@@ -85276,9 +84682,7 @@ AC 8C 9C 7H
 KC 8H QH QC
 AH KH JH QD
 KD 9H 10H JS
-
 -------
-
 82H
 92C
 102D
@@ -85553,9 +84957,7 @@ JD QD QH 8D
 QS 7H JC 7S
 8C AC KH 8H
 10H JH AH 9H
-
 -------
-
 Pass
 82C
 92S
@@ -85829,9 +85231,7 @@ AH 8S 10S 8H
 QD 9D 7D AD
 10D KD AC JD
 8D 7S QH 9H
-
 -------
-
 92D
 102H
 Pass
@@ -86077,9 +85477,7 @@ AH 8H KH 10H
 JD KD 9D 10S
 7H JH QH JS
 AC KS 10C AS
-
 -------
-
 82H
 90SANS
 Pass
@@ -86326,9 +85724,7 @@ AH 9C JC 7H
 JS KC 10C AC
 KD AD 8H QD
 8C JH QC 8D
-
 -------
-
 102H
 112S
 122C
@@ -86579,9 +85975,7 @@ AD 7D KD 10C
 9S 9C 8D 10H
 10D JD QD KC
 KS 8H JH QH
-
 -------
-
 82S
 92H
 102C
@@ -86844,9 +86238,7 @@ JC 7C AC 10C
 AH 9H JH QC
 8S QH 8D 10S
 QS JS 10D 7D
-
 -------
-
 82C
 92D
 102C
@@ -87159,9 +86551,7 @@ AH 9H 8H KH
 AC 8D 7C 9S
 KC QD 10S JS
 QC KD 8S 10D
-
 -------
-
 132C
 Pass
 Pass
@@ -87402,9 +86792,7 @@ QC 10C KC 10D
 9C 7D KS 7C
 AD JS KD QD
 8D 10S JD AH
-
 -------
-
 82C
 Pass
 Pass
@@ -87652,9 +87040,7 @@ AD 8D 9D 7S
 AS JD 10S 9S
 QC 10D 10H QS
 QD KS 8S KD
-
 -------
-
 Pass
 Pass
 Pass
@@ -87957,9 +87343,7 @@ AD JD AH 9H
 JS KH 9S 7S
 AS QH JH KC
 KS 10C 9C 10H
-
 -------
-
 82H
 Pass
 Pass
@@ -88219,9 +87603,7 @@ QD 9D AD JH
 10H 8H 7H AH
 AC QC KH 8C
 9C KS QH 10C
-
 -------
-
 82D
 92C
 102D
@@ -88509,9 +87891,7 @@ JS 7H 7D 9D
 QD AD JC KD
 8C AC 9C 10H
 10D 10C KC QC
-
 -------
-
 82S
 Pass
 Pass
@@ -88799,9 +88179,7 @@ AD AH JD KD
 8D 10H 10D 7D
 8S KS KC JS
 AS 10C QD 10S
-
 -------
-
 Pass
 Pass
 Pass
@@ -89145,9 +88523,7 @@ KC AH 9H 8C
 9D KD 7D 7H
 9S KH 10C KS
 8H QH JC JH
-
 -------
-
 112H
 122S
 Pass
@@ -89389,9 +88765,7 @@ JS 8C JH KD
 QC 7C 8H AC
 AH 7H 9H KH
 8D 10C 10H QH
-
 -------
-
 82S
 92D
 Pass
@@ -89663,9 +89037,7 @@ QC JH 8C 9C
 KD 8D KS QS
 QD JS 7S AC
 8S 10S KC AS
-
 -------
-
 Pass
 Pass
 82C
@@ -90021,9 +89393,7 @@ AH 7H QH 9S
 10H KH JH JD
 AD 8S 7D KD
 8H 10C 9C 10S
-
 -------
-
 Pass
 82H
 102C
@@ -90331,9 +89701,7 @@ AS JS KH 8S
 9C KC 10C 7C
 QH 8C KS JC
 AC 7S QS 10S
-
 -------
-
 82D
 92S
 102D
@@ -90577,9 +89945,7 @@ AC QH 9D 10C
 KC AH KH 9H
 QC 10D JH 7H
 8H 10H AS QD
-
 -------
-
 92C
 Pass
 Pass
@@ -90822,9 +90188,7 @@ QC 7D 8D JC
 JD 10C KD AH
 10S QD 8H 9C
 10D KC AD KH
-
 -------
-
 102H
 112S
 Pass
@@ -91115,9 +90479,7 @@ AC 8C KC 7C
 AS 10S KD KS
 8D JD AH QC
 10H 10C 7D JC
-
 -------
-
 102H
 112S
 Pass
@@ -91354,9 +90716,7 @@ JH 8H 9D 7C
 AD JD 10C KD
 QD 10D 9C AC
 KC QC JC KH
-
 -------
-
 Pass
 70SANS
 Pass
@@ -91612,9 +90972,7 @@ JS QS KS AS
 7H 9D 9H 10H
 JC 7S QC 10D
 JD QD 10S 8C
-
 -------
-
 Pass
 82D
 Pass
@@ -91923,9 +91281,7 @@ AD QD 9D 10D
 7D 7C 8D KD
 QC JS AC JC
 JD KH 7H 8S
-
 -------
-
 Pass
 70SANS
 Pass
@@ -92210,9 +91566,7 @@ AH 7D JH 7H
 JD QS AD KD
 KS JC 10S 8S
 10D AS 9H 7S
-
 -------
-
 102S
 Pass
 Pass
@@ -92507,9 +91861,7 @@ AD 8D AS KH
 QS 7S 9S 10S
 9H QH 8H JD
 AH 8S 7H 10D
-
 -------
-
 82H
 Pass
 Pass
@@ -92795,9 +92147,7 @@ AH 10H QH 9H
 10D QC QD KS
 JC 9C AC 8C
 KC 7D 10C 9D
-
 -------
-
 82D
 92C
 Pass
@@ -93083,9 +92433,7 @@ KD 7D AD QH
 8D 7S 9S 10D
 KS QD AS 7C
 KC 8S 9D 10S
-
 -------
-
 102C
 Pass
 Pass
@@ -93334,9 +92682,7 @@ AD 9S JS JD
 KD 7C AS QC
 QD JC 10S QS
 10C KC AC KS
-
 -------
-
 82H
 92C
 Pass
@@ -93660,9 +93006,7 @@ AH 8H JH 10H
 7H KH JD 9S
 AD 7D 8D QD
 9D KD 10D QH
-
 -------
-
 82D
 Pass
 Pass
@@ -93935,9 +93279,7 @@ AH JH 8H 7H
 QD AD 10D JD
 10H 9C 7D 10C
 KD AS KC 9D
-
 -------
-
 102H
 Pass
 Pass
@@ -94183,9 +93525,7 @@ JH KH 8H AH
 AC 7C 7H 8C
 JC 10C 10D QH
 JS 10H AD KC
-
 -------
-
 82C
 90SANS
 Pass
@@ -94437,9 +93777,7 @@ QS JS 8S JC
 QC 8C AC 8H
 7H KH KC 7C
 QH 10C AD 9C
-
 -------
-
 82H
 Pass
 Pass
@@ -94736,9 +94074,7 @@ AD JD 7C QH
 8H 10H QS JH
 10S 9H KC AH
 7S KH 9C KD
-
 -------
-
 Pass
 Pass
 82D
@@ -95092,9 +94428,7 @@ AC 7S KH 8C
 AS 9H 9D JC
 10S JD 8H KC
 10H QD 7H AH
-
 -------
-
 92S
 Pass
 Pass
@@ -95343,9 +94677,7 @@ QS 10H 7D AC
 10D 7C QC QH
 8C QD JC 10C
 9C KH 9D KC
-
 -------
-
 Pass
 92S
 102C
@@ -95635,9 +94967,7 @@ JH KH KS 10H
 AD AH 7D JD
 JS 7S 10S 8S
 AS 8H QS JC
-
 -------
-
 92C
 90SANS
 102C
@@ -95913,9 +95243,7 @@ KS KD JH 10H
 7D QH 7C 10D
 KC QD 10C JC
 8D AC KH 9C
-
 -------
-
 Pass
 Pass
 Pass
@@ -96241,9 +95569,7 @@ AH 7D 9H KS
 QC 7H 8D KD
 9C JH 10D JD
 7C 10H QD 9D
-
 -------
-
 Pass
 102H
 Pass
@@ -96483,9 +95809,7 @@ KD 8D QS 7D
 AS 8S KS 10S
 7S 7H 9S AD
 QH JS KH JH
-
 -------
-
 82S
 Pass
 Pass
@@ -96729,9 +96053,7 @@ AH QS QC 10H
 KC AC 7C 8C
 9D AD 9H JD
 10C JC KS KD
-
 -------
-
 82H
 92D
 Pass
@@ -96997,9 +96319,7 @@ AH 10C QH JH
 JC 8C 7D AC
 9C QC 9D QD
 7C 8H AD KS
-
 -------
-
 70SANS
 92H
 Pass
@@ -97250,9 +96570,7 @@ AS KS 10C JD
 8D QC 10D 8C
 7D 7C 8S KC
 JC AC 9C 10S
-
 -------
-
 82H
 Pass
 Pass
@@ -97562,9 +96880,7 @@ KC 9H JC 9S
 10D 9C QS JD
 8D 8C 10S JS
 8H 7C 10H KS
-
 -------
-
 Pass
 Pass
 82C
@@ -97825,9 +97141,7 @@ JC 10C 8S KC
 JD KD 8D QD
 AH 7D 9D QH
 KH 10D AD 9S
-
 -------
-
 70SANS
 Pass
 Pass
@@ -98101,9 +97415,7 @@ JC 10C 7D QD
 AH 8D JD KD
 10H KS AS 10S
 QH 10D 8S AD
-
 -------
-
 Pass
 Pass
 Pass
@@ -98405,9 +97717,7 @@ KH JS 7H QH
 10H AS 7C 10D
 7D 9C KC 7S
 9S 10S JC 8S
-
 -------
-
 Pass
 80SANS
 Pass
@@ -98766,9 +98076,7 @@ AC 8D QC 9H
 AH JH 7D 10H
 JS QS 9D 10S
 KS QD KH 10D
-
 -------
-
 92C
 Pass
 Pass
@@ -99018,9 +98326,7 @@ KD 10D 8D AD
 QD 8H 8S 9D
 7S JS AS KS
 QS 10S KH KC
-
 -------
-
 82S
 Pass
 92D
@@ -99331,9 +98637,7 @@ AC 7C KD QC
 AD 8D 7S JH
 KS 8C AS JD
 7D QH QS KC
-
 -------
-
 80SANS
 Pass
 92D
@@ -99646,9 +98950,7 @@ JC AS 8C 7D
 10H KC 9D 8H
 AH QC AD 7H
 QH AC KS 10C
-
 -------
-
 Pass
 82C
 80SANS
@@ -100016,9 +99318,7 @@ JH 10H QH 8H
 KD 9D AD 7D
 JD 8D QD 10D
 10C AH 9S KC
-
 -------
-
 82S
 92C
 122D
@@ -100294,9 +99594,7 @@ JH 10H AD QH
 KS 8C 10D 9D
 JD 7D 10C 8D
 KD JC KC QD
-
 -------
-
 82C
 92S
 Pass
@@ -100565,9 +99863,7 @@ AH 7C KC 9H
 7S JC AS JS
 8S 10S KH AC
 10H 7H 10C 9C
-
 -------
-
 Pass
 Pass
 82H
@@ -100842,9 +100138,7 @@ AC 7C 9C JC
 7D 10D KD 10H
 AH 7H QH JH
 KC KH 10C QD
-
 -------
-
 Pass
 Pass
 80SANS
@@ -101122,9 +100416,7 @@ AD 8D KH 7D
 7H 10H 9H KD
 10C QC QD 7S
 9D 10D JC JD
-
 -------
-
 92D
 102C
 122D
@@ -101373,9 +100665,7 @@ AD 9D KH JD
 AS QS 10S 9S
 KS JS QD AC
 KC 8S 7S QC
-
 -------
-
 82S
 92C
 102S
@@ -101642,9 +100932,7 @@ AS 7D 10S QH
 JD 7H 9D 10D
 8D AD QC QD
 8S KH JH KD
-
 -------
-
 Pass
 Pass
 82H
@@ -101932,9 +101220,7 @@ AC QC JC 7C
 9H KC 9D KS
 8D AD 8S 10D
 10C 8C QD AH
-
 -------
-
 Pass
 82S
 Pass
@@ -102255,9 +101541,7 @@ AD QD JD 10D
 AC 8C 8D 10H
 KD 9H JC 7D
 7C JS 7S KH
-
 -------
-
 80SANS
 102H
 122S
@@ -102498,9 +101782,7 @@ QH 10H 7S 9H
 10S 8C KS QS
 10C 9C QD KC
 9D 10D JD KH
-
 -------
-
 82S
 92C
 Pass
@@ -102807,9 +102089,7 @@ JS AS 8S QS
 JH 8D 8H KH
 QC 9S AD QH
 AH 10H KC 7H
-
 -------
-
 82C
 92S
 Pass
@@ -103034,9 +102314,7 @@ KC 10D AD JC
 JS KS 9S 10S
 AS QD 8S QS
 9D 10C QC AH
-
 -------
-
 82C
 92D
 Pass
@@ -103339,9 +102617,7 @@ JS JD QH KS
 7S QS 9D KD
 KC JH AD QD
 10C 10H AH 10D
-
 -------
-
 82C
 92H
 Pass
@@ -103659,9 +102935,7 @@ AH 7S KH 9S
 7H QS 8S KS
 10C AS 8D 10D
 7C AD 7D 9D
-
 -------
-
 Pass
 Pass
 82H
@@ -103936,9 +103210,7 @@ QS 9S JS KS
 10H KH 9H 7D
 AD 9D 8S JC
 10S 10C QD JH
-
 -------
-
 92C
 Pass
 Pass
@@ -104172,9 +103444,7 @@ JC AC QC 7D
 AS JS 10S KS
 JH 10C 10H QS
 8C 7S KC 8H
-
 -------
-
 92S
 102C
 112S
@@ -104444,9 +103714,7 @@ JH 9D AH 9H
 10H 8H KD 7D
 10D 10S QD JC
 KH AD KC JD
-
 -------
-
 Pass
 82D
 Pass
@@ -104725,9 +103993,7 @@ AC 7S 8D QS
 10H JS 8H 9S
 AH KS 10D 8S
 QH 10S JD AS
-
 -------
-
 Pass
 102S
 Pass
@@ -104996,9 +104262,7 @@ KC JC 7C QH
 8H 10H JH 9H
 7H 7D AH KH
 KS 10C 10D QD
-
 -------
-
 Pass
 122D
 Pass
@@ -105258,9 +104522,7 @@ JS KS 10S 7S
 7C 9C 9D AC
 8C QC 10C 8D
 JC 7D 8H AS
-
 -------
-
 Pass
 Pass
 82C
@@ -105677,9 +104939,7 @@ AS 8S 9S 10S
 KS 9C 7C KH
 8C 9H QC AC
 AD 10C JC QH
-
 -------
-
 Pass
 82C
 92H
@@ -106014,9 +105274,7 @@ QH 10H 7H 8H
 AH 8C JC JH
 AC 7C KS 10C
 7S KD QC KC
-
 -------
-
 Pass
 70SANS
 122D
@@ -106305,9 +105563,7 @@ QH 10H JH 8H
 8D 7C 10D JD
 QS QC KC 10C
 AH 8C AC JC
-
 -------
-
 82D
 Pass
 Pass
@@ -106588,9 +105844,7 @@ QS 7S KS 10S
 QD 8D 8S KD
 AS JS QC JH
 7C KH 10H 9H
-
 -------
-
 70SANS
 82S
 Pass
@@ -106892,9 +106146,7 @@ QC 10C JC AC
 AD 9D 7D JD
 QD KD JH 10D
 7H 7C 9S QH
-
 -------
-
 82S
 92H
 102C
@@ -107239,9 +106491,7 @@ AD 9D JD 7D
 10D QD 8D KD
 9C 7H KC JS
 8C 10H AC KH
-
 -------
-
 82C
 102D
 Pass
@@ -107475,9 +106725,7 @@ QS KS 7S 9S
 QC 10C 8C QH
 7D 8H 9D 7H
 9H KC AD AH
-
 -------
-
 Pass
 Pass
 82C
@@ -107829,9 +107077,7 @@ JD QD AD 7D
 AS 7S KS JS
 QS 10S 8S 10H
 KD 10D KH 9S
-
 -------
-
 102D
 Pass
 Pass
@@ -108165,9 +107411,7 @@ KS 7D AS 8S
 9D AD 7S JD
 QS 10S QC 10D
 9S KD QD 8D
-
 -------
-
 82C
 Pass
 Pass
@@ -108482,9 +107726,7 @@ JS AC 8S KH
 AD 9D 7D JD
 AH 8D KD QS
 7H 7S 8C 10D
-
 -------
-
 82C
 Pass
 Pass
@@ -108785,9 +108027,7 @@ QC 8C AC JC
 9D 10D 7D JD
 10C 9C QS 10S
 8S KC 7C 9S
-
 -------
-
 102C
 Pass
 Pass
@@ -109061,9 +108301,7 @@ KH JH 7S 10H
 9D 7D 8S KD
 QH 9S QS JC
 AD 10S AS KS
-
 -------
-
 Pass
 Pass
 Pass
@@ -109473,9 +108711,7 @@ KS 9D 8S AC
 10D AD JD 7D
 AS QD 8H 9H
 10S KD 10H QH
-
 -------
-
 Pass
 80SANS
 92S
@@ -109826,9 +109062,7 @@ JH AH 8H 10H
 7D 8D AD 10C
 QH 7H JD 9H
 8C 10D QS QD
-
 -------
-
 Pass
 Pass
 Pass
@@ -110194,9 +109428,7 @@ KC QC 9C 7C
 QH 10H 9S 9H
 AS 8S 7D 10S
 QD 7S 8H QS
-
 -------
-
 Pass
 82D
 92S
@@ -110544,9 +109776,7 @@ AC 7C 9C 9D
 8C KC KH JD
 AD KD 8D 9S
 QD KS AH QS
-
 -------
-
 82D
 92C
 Pass
@@ -110801,9 +110031,7 @@ AD QD 10D 8S
 JS KS QC 10S
 AS QS 7S JC
 9S 10H 8D QH
-
 -------
-
 92D
 102H
 112S
@@ -111080,9 +110308,7 @@ AC 7S KC QC
 JC QS 7C 10H
 AS JS 10S 8S
 9S AH KS 10C
-
 -------
-
 82S
 Pass
 Pass
@@ -111360,9 +110586,7 @@ AC 7S 8C 8H
 10H JD 10S JS
 9D 10D AD QD
 QS KD KH 7D
-
 -------
-
 70SANS
 Pass
 82H
@@ -111618,9 +110842,7 @@ AD JD 7D 8D
 JC 8H 8C QS
 9S KD 10S 10H
 KC AH 10C 10D
-
 -------
-
 Pass
 82H
 92C
@@ -111904,9 +111126,7 @@ AD 8D 9D 10D
 QD KC JD 9S
 KH 8C 9H KD
 7C QH 7D 7H
-
 -------
-
 70SANS
 92D
 102H
@@ -112142,9 +111362,7 @@ AC 7C 9C JC
 JD JS 10C 7S
 KC QC KS QS
 AS JH 7D 10S
-
 -------
-
 Pass
 82S
 Pass
@@ -112430,9 +111648,7 @@ AD 8S JD 9D
 9H AH 8H KD
 QH 10H QD KH
 8D 7D 9S 10D
-
 -------
-
 Pass
 82C
 Pass
@@ -112751,9 +111967,7 @@ AH 9H 10H 9C
 8H JH QH 8C
 KH JS 10C 7C
 7H AC QD QC
-
 -------
-
 82S
 92C
 112H
@@ -113044,9 +112258,7 @@ JH KH AH 7H
 KS 7D 10H QS
 8D 10D 9H QD
 AD QH KD 8H
-
 -------
-
 Pass
 Pass
 Pass
@@ -113434,9 +112646,7 @@ AC KC JC 8C
 7C QS 8H QC
 9S 7S 10H 9C
 JH 8S 7D 10C
-
 -------
-
 92D
 102C
 Pass
@@ -113676,9 +112886,7 @@ AH 8S 7H QH
 10H JS 10S KH
 8H AS 7S QD
 KS 9S KD QS
-
 -------
-
 Pass
 82C
 92D
@@ -113961,9 +113169,7 @@ JD 7D JC KD
 AC QC 8C 8H
 10C KC JS 8S
 9C QH 7S QS
-
 -------
-
 Pass
 82C
 92H
@@ -114275,9 +113481,7 @@ AH 10H 8H 7H
 10D QD KS QH
 8C 10C KH 10S
 JS AS 8S 7S
-
 -------
-
 82C
 112D
 122S
@@ -114533,9 +113737,7 @@ AC 7C 9C QC
 AD 8D KS JD
 7D KD KH 10D
 7S JS QD 10S
-
 -------
-
 82C
 Pass
 92C
@@ -114853,9 +114055,7 @@ JC JH 10D 7S
 KC JD 7D KS
 8C QH 9S AD
 7C 10H 8S JS
-
 -------
-
 70SANS
 Pass
 82D
@@ -115141,9 +114341,7 @@ AC JC 9H 7C
 8H KC 9C KH
 JH QS 9D AS
 10S JS 7S QD
-
 -------
-
 Pass
 82C
 Pass
@@ -115373,9 +114571,7 @@ KD JD AD 10D
 JH 9C 7C KC
 10H 8D QC 8C
 AH JC AC 10C
-
 -------
-
 82S
 102H
 112D
@@ -115615,9 +114811,7 @@ QS AS 10S KS
 9C 9D AC 10H
 JS 7C 7S JC
 8S QC 9S JD
-
 -------
-
 Pass
 82H
 Pass
@@ -115945,9 +115139,7 @@ QH 10H AH 10S
 8S 9S 7H KS
 JC 9H JH QS
 JS AS AD KH
-
 -------
-
 82C
 92H
 102C
@@ -116208,9 +115400,7 @@ AC 8C QC 7C
 9C 10C 7D KC
 AH 7H KH JC
 8H JH 10H AS
-
 -------
-
 Pass
 82S
 Pass
@@ -116463,9 +115653,7 @@ AC 8S JC 9C
 9D JH 10D QS
 9H 9S KS 10H
 AS 7S 10S KD
-
 -------
-
 82H
 92C
 102C
@@ -116714,9 +115902,7 @@ JS 7S QS KS
 AC QD KC 8C
 JC KD 9C 8D
 10S 10D JD AD
-
 -------
-
 82C
 92S
 132C
@@ -116970,9 +116156,7 @@ KH 10H 7D 9D
 8D 10D 7C QH
 AD 10C QC JD
 QD AC KC 8C
-
 -------
-
 80SANS
 Pass
 92H
@@ -117246,9 +116430,7 @@ AC 7S QC 10C
 9C KS QH JS
 KD 9D 7D 10S
 AH QD 8S AS
-
 -------
-
 82H
 92C
 102H
@@ -117529,9 +116711,7 @@ KC 8D 10C 8C
 10H 7S QH 7D
 AD 9D KS QD
 JD KD 8H 10D
-
 -------
-
 102S
 Pass
 Pass
@@ -117779,9 +116959,7 @@ AS 7S 9S QS
 KS 8C QH JC
 AC 9C 10H 10C
 KH QC QD 7H
-
 -------
-
 Pass
 Pass
 Pass
@@ -118093,9 +117271,7 @@ AD 10H 9H KD
 QD QS 10S 8H
 AS 9S JS 8S
 KH KS 10C 7S
-
 -------
-
 70SANS
 Pass
 82H
@@ -118347,9 +117523,7 @@ KD AD 8D JD
 QD 10D 7D 9D
 10H 9H 7H AH
 QS KH JH 8H
-
 -------
-
 Pass
 82C
 Pass
@@ -118634,9 +117808,7 @@ AH 10S QH JH
 AC 8C 10C JC
 KC 9C 7C QC
 KS 9S AS JD
-
 -------
-
 70SANS
 Pass
 82H
@@ -118902,9 +118074,7 @@ AD 9D 8S AS
 QH JD 10H 9S
 7S 10S 7H KS
 JS KH KD 7C
-
 -------
-
 82S
 92C
 Pass
@@ -119141,9 +118311,7 @@ QD 7D JS 10D
 AC JC QC 10H
 AS 7S KC 9C
 AH 10S KD 8C
-
 -------
-
 82H
 Pass
 Pass
@@ -119436,9 +118604,7 @@ JS JH QS 8H
 QC 10S 8D KS
 QD 10D 9S AD
 7S KH 9D QH
-
 -------
-
 82C
 Pass
 Pass
@@ -119748,9 +118914,7 @@ AS QS 9S 7S
 AC JC AD KH
 JD KS JH QC
 10H JS 9H KC
-
 -------
-
 82S
 Pass
 Pass
@@ -120058,9 +119222,7 @@ QC 10C 9C 9H
 8H KH 9S JH
 JS AS KS 7S
 8S QS 7C 10S
-
 -------
-
 Pass
 Pass
 Pass
@@ -120351,9 +119513,7 @@ AH 7H JH 9H
 QC JC 10S QD
 AS KH KS 7D
 7S AD 9D 10D
-
 -------
-
 132S
 Pass
 Pass
@@ -120592,9 +119752,7 @@ AD QD 10D 8C
 7H KH 9H AH
 8S 8D 10S KS
 9D 10H 9S QS
-
 -------
-
 102C
 Pass
 122C
@@ -120843,9 +120001,7 @@ AH 9C KH JH
 7H 8C QC QD
 8S 10C 9S JC
 7C KC 10S AC
-
 -------
-
 82D
 80SANS
 Pass
@@ -121134,9 +120290,7 @@ JC 10C 9D KC
 AH 8H QD 9H
 JD 7D 10D KD
 8C 10S KH 8D
-
 -------
-
 80SANS
 102H
 Pass
@@ -121385,9 +120539,7 @@ KD JH QC 9D
 QD 8H KS 7H
 10C QH QS 9S
 7C AH JS 10H
-
 -------
-
 Pass
 Pass
 80SANS
@@ -121689,9 +120841,7 @@ QC 10C 8C 7C
 JS KS AS 8H
 AH 8D JD KD
 AD 7D 9D 10D
-
 -------
-
 Pass
 Pass
 82S
@@ -121992,9 +121142,7 @@ JD 7D QD QH
 8H KS QC 7S
 10S 9S AS JC
 8C 7C KD QS
-
 -------
-
 82H
 92C
 102H
@@ -122228,9 +121376,7 @@ QS 8S AS 9S
 10H AH 10D 9H
 10S 7S 8H KC
 JS 10C KH JH
-
 -------
-
 82C
 92S
 Pass
@@ -122511,9 +121657,7 @@ AS KS JS QS
 7C AC KC 10S
 10D JH JC JD
 KD 9C AH 10C
-
 -------
-
 92H
 102S
 122H
@@ -122767,9 +121911,7 @@ QD JD AD 9D
 KD 8D 10D 7S
 QC JC 9C 7C
 KC AC 10C 7H
-
 -------
-
 82H
 Pass
 90SANS
@@ -123024,9 +122166,7 @@ AS 7D 9S KS
 KH 7H JH QD
 10H 7S AH KD
 8H 10D QH JS
-
 -------
-
 Pass
 82H
 Pass
@@ -123311,9 +122451,7 @@ KH 8H AH JH
 QD JD 10S 8S
 KD QH 9S 7S
 AD KS AS QS
-
 -------
-
 Pass
 Pass
 82D
@@ -123590,9 +122728,7 @@ AS 10S 10C 9S
 JS 7D 7H 7S
 QC KH 7C 8C
 JD AH JH QS
-
 -------
-
 82D
 Pass
 Pass
@@ -123874,9 +123010,7 @@ QH JC 9H 7H
 AD QD 10C 8S
 8C JS QC AC
 AS KC 9D 10H
-
 -------
-
 Pass
 Pass
 Pass
@@ -124175,9 +123309,7 @@ KS 9C 9D 7S
 AD 8H QD 7D
 KC 7H JD KD
 JC 10H 8D 10D
-
 -------
-
 82D
 Pass
 92H
@@ -124446,9 +123578,7 @@ QC 8S 10C 7C
 8H KS AH JD
 10S QS QD 9D
 QH JS KH KD
-
 -------
-
 Pass
 Pass
 Pass
@@ -124734,9 +123864,7 @@ AS 7S 8S JS
 9C 8C 9D QS
 10H 7H KS JH
 KH QH QD 10S
-
 -------
-
 Pass
 Pass
 Pass
@@ -125141,9 +124269,7 @@ AH QH 10H 9H
 KH 8H JC KS
 QC JH 8D 10C
 9D AS 8C 7H
-
 -------
-
 Pass
 82H
 92S
@@ -125462,9 +124588,7 @@ AD JD 8D AS
 9C 7S 9S 7C
 KH 7D JC AH
 JH 9H 10C KS
-
 -------
-
 92H
 90SANS
 112H
@@ -125711,9 +124835,7 @@ JH 8H KH AH
 QH KD JS 8D
 10D AD KC 7D
 8C JD QD 10S
-
 -------
-
 Pass
 Pass
 Pass
@@ -126023,9 +125145,7 @@ JS 8S QS 7S
 10H 9S QD AC
 9D 7D KD 10S
 AH 7C 8C AD
-
 -------
-
 Pass
 Pass
 82H
@@ -126317,9 +125437,7 @@ AD 9S KD 7D
 10S 7S 10C 9D
 JS QC 7C JD
 8D JC KC 10D
-
 -------
-
 Pass
 Pass
 Pass
@@ -126643,9 +125761,7 @@ JH KH AH QH
 10S 9S 9H 7S
 KS QS 8D JS
 8H 10H 8S 9C
-
 -------
-
 Pass
 82H
 Pass
@@ -126967,9 +126083,7 @@ AS 9S 7S KS
 KD 7D 10D 9D
 AD 8D QS QD
 10S 8S 7C JC
-
 -------
-
 82S
 Pass
 92C
@@ -127217,9 +126331,7 @@ AC 9H 8H 9C
 10H 9D 7H JH
 AH QD 10D 10S
 AD JD 7D KD
-
 -------
-
 82C
 122H
 Pass
@@ -127459,9 +126571,7 @@ KC 10S 8D 9C
 AH 7H JH 9H
 8H AC KH 10H
 10D QD 7S QH
-
 -------
-
 82D
 92H
 Pass
@@ -127731,9 +126841,7 @@ QD JD 8S 9D
 AH QH 9H 10C
 9S AS JH 8H
 KH 10H 7H 9C
-
 -------
-
 70SANS
 102D
 Pass
@@ -127988,9 +127096,7 @@ KD QS 9D 9H
 AH JC QH 7H
 10H JS 8H KH
 JH 9S 10D 10S
-
 -------
-
 Pass
 Pass
 Pass
@@ -128306,9 +127412,7 @@ AC 8C 7C JC
 10C KC 9C QC
 10S QS 10D 7S
 7D QD KH 9S
-
 -------
-
 82D
 92C
 102D
@@ -128590,9 +127694,7 @@ KS KC JS AS
 QD KD 7S 10S
 QS KH 10C AC
 QC JH 8H 9C
-
 -------
-
 92C
 102D
 Pass
@@ -128847,9 +127949,7 @@ AD 8D KD QD
 10S 7S QS JS
 10C JC KC 7C
 AC 7D 8C 7H
-
 -------
-
 102C
 Pass
 Pass
@@ -129086,9 +128186,7 @@ KS 7S JS 9H
 8H AH KH JH
 KD 8C KC 8S
 QS 7C QH 10H
-
 -------
-
 Pass
 82C
 92H
@@ -129391,9 +128489,7 @@ KS 7S AS JS
 AD 9C 9D 7D
 QD 7C 8D 10D
 JD 10H 10S 9S
-
 -------
-
 92C
 Pass
 Pass
@@ -129637,9 +128733,7 @@ AC JC 7D QC
 AD JS JD 10D
 9D QS 8S AS
 KH KS 9S 10S
-
 -------
-
 102D
 Pass
 Pass
@@ -129892,9 +128986,7 @@ JC JD 7C 9D
 AD 8D QD 7D
 KC KS QH JS
 AS 10D 7S KD
-
 -------
-
 Pass
 70SANS
 Pass
@@ -130193,9 +129285,7 @@ JD 8D QD 10D
 KS QS 10C 9C
 JS 7H KC QC
 8S KH 8C AC
-
 -------
-
 Pass
 Pass
 Pass
@@ -130504,9 +129594,7 @@ AD 10D 9D JD
 10S JS KS KH
 QD 8C JC QC
 9C KC 7C 10C
-
 -------
-
 80SANS
 Pass
 Pass
@@ -130852,9 +129940,7 @@ JH QD 10S 7H
 KC 8S JS QH
 9D JD QS KD
 8D KH 9S KS
-
 -------
-
 82C
 Pass
 Pass
@@ -131175,9 +130261,7 @@ KS 9D 9S 8S
 10D 7S JS QD
 9C QH 8D QC
 8C JC 10H QS
-
 -------
-
 102S
 Pass
 Pass
@@ -131421,9 +130505,7 @@ KH 7C 8H 10H
 9H AD QC 9S
 QS 10S AS 8S
 9D KS QD JS
-
 -------
-
 92C
 112D
 Pass
@@ -131659,9 +130741,7 @@ KS 10D 8S QS
 7C QC 10C 9C
 QH 8D 8C JC
 AS KC AC KH
-
 -------
-
 Pass
 Pass
 92C
@@ -131978,9 +131058,7 @@ QH 7S KD 9S
 AC JC 10C JS
 KS QS AD AS
 JD 8S 10S KC
-
 -------
-
 82D
 Pass
 Pass
@@ -132294,9 +131372,7 @@ QH 8C JH 9H
 AD 8D 10C QD
 AS 9C 7D 10D
 KH JD KD AC
-
 -------
-
 82S
 Pass
 102H
@@ -132548,9 +131624,7 @@ QC 10S 9D QH
 AD 8D JH JD
 10D 8H 7H 7D
 KH AH AS 10H
-
 -------
-
 Pass
 82C
 Pass
@@ -132836,9 +131910,7 @@ KD JC 8S AD
 KS 7S JS AS
 QS KH JD 10D
 KC 9D QD 10S
-
 -------
-
 82S
 122D
 Pass
@@ -133107,9 +132179,7 @@ AD JD 10D 7D
 QC 9C 8D 8H
 10S KC 9S QD
 KH AC KS KD
-
 -------
-
 92D
 Pass
 Pass
@@ -133348,9 +132418,7 @@ KD 9S 10D QD
 AS KS QS 10S
 8S 10H JH JS
 QH 7S KH 7C
-
 -------
-
 Pass
 102D
 Pass
@@ -133592,9 +132660,7 @@ JS KS 10S 7S
 AD 9D 10D KD
 AH QH KH JD
 7D QD 7H QC
-
 -------
-
 Pass
 82D
 92H
@@ -133877,9 +132943,7 @@ KC QC JH QH
 AD JD 9H JS
 7S KD 7C KS
 9C AS 9S 10H
-
 -------
-
 82S
 92D
 Pass
@@ -134170,9 +133234,7 @@ KD 7C 8D JS
 JH 8C AH 9H
 JC KH 10D QC
 7D 10C QH 10H
-
 -------
-
 82H
 92S
 Pass
@@ -134480,9 +133542,7 @@ JC KC JH 8C
 10D 8D JD 7D
 AD 9S QD AC
 JS 10C 7S 8H
-
 -------
-
 82S
 92H
 102D
@@ -134745,9 +133805,7 @@ QS JC 9D QC
 10H KC AC 8C
 8D AD 7D 10D
 KD 10C JD QH
-
 -------
-
 Pass
 Pass
 70SANS
@@ -135011,9 +134069,7 @@ JS 7D 9D 10S
 AH KS 9H 7H
 JD KH QD 8H
 AD JH KD KC
-
 -------
-
 Pass
 82H
 92C
@@ -135319,9 +134375,7 @@ KC 7C JD KS
 AS 8D 8S 9H
 10D QC QD 7H
 7S 10H JC QH
-
 -------
-
 82D
 102S
 Pass
@@ -135563,9 +134617,7 @@ AD 9D QD 8D
 AS KS 8S 10C
 JD 10D JH 10H
 7H KH 8H QH
-
 -------
-
 82C
 Pass
 Pass
@@ -135808,9 +134860,7 @@ AD 7D KD 8D
 10D JD 7S 9D
 QD JS AH KC
 10S KH JC QS
-
 -------
-
 82C
 92D
 102C
@@ -136105,9 +135155,7 @@ AH 7D QH 8H
 JS JD KS 10S
 AD 8D 10D 9S
 KD 7H 10C QS
-
 -------
-
 Pass
 Pass
 82S
@@ -136400,9 +135448,7 @@ AC 8C QC JC
 9S 8S 8H KS
 10H KC 10S KH
 10C AS JS 9C
-
 -------
-
 Pass
 Pass
 82D
@@ -136712,9 +135758,7 @@ JD 10S 7D KD
 QH JH JS QC
 9S 10H QS AS
 7S KC 8H KS
-
 -------
-
 Pass
 Pass
 Pass
@@ -137050,9 +136094,7 @@ JH AH 7H 8H
 10C 9H KC JC
 9C QH 8D JS
 7D 10H KD KH
-
 -------
-
 82H
 92S
 Pass
@@ -137333,9 +136375,7 @@ QS 9D AH 7H
 KC KH QD QC
 8C 10H 9H 10S
 KS JC AD JH
-
 -------
-
 82H
 Pass
 112H
@@ -137615,9 +136655,7 @@ KS AS JS 10D
 AD JD QD 8D
 7S 10H KH 10S
 7D 8S KD QH
-
 -------
-
 Pass
 Pass
 82C
@@ -137935,9 +136973,7 @@ AC JC 9C QC
 8C QH 9H QS
 10D 10H 8H 9D
 AH KH 7H KD
-
 -------
-
 Pass
 Pass
 Pass
@@ -138221,9 +137257,7 @@ JH 7H 8H 10H
 8C AH KC 7C
 AD KD QC QD
 8D AC JC 10C
-
 -------
-
 Pass
 82D
 92C
@@ -138525,9 +137559,7 @@ AD 7D KD 10D
 JD JS KC QD
 AH 7H QH 10H
 QS JH 9D KH
-
 -------
-
 82D
 Pass
 Pass
@@ -138739,9 +137771,7 @@ JS 9H QS JD
 KD QD 8D AD
 10D QH 10H 7C
 7S AH 8H JH
-
 -------
-
 82D
 92S
 Pass
@@ -139019,9 +138049,7 @@ KD 10D 10S 9D
 9C 10C AC KC
 8C 9S QC 7C
 QD KS 8S JC
-
 -------
-
 82C
 92H
 Pass
@@ -139277,9 +138305,7 @@ KS 8S AS JS
 10S 10H 9C QS
 9D KC JC 7C
 10C AC 8C QC
-
 -------
-
 92C
 Pass
 Pass
@@ -139569,9 +138595,7 @@ JC 10C AC 9C
 KH 10H 7H 7S
 8D QD 10D AD
 QH KD 7D JH
-
 -------
-
 82H
 Pass
 Pass
@@ -139843,9 +138867,7 @@ KH AH JH QD
 QC 10C 8D 7D
 8C AD 10S 9D
 10H 10D 9C JD
-
 -------
-
 102C
 Pass
 Pass
@@ -140090,9 +139112,7 @@ KD 10D AD AC
 AH 10H 9H JH
 KH 7C 9D QD
 JD 10S 8D 8H
-
 -------
-
 70SANS
 Pass
 102S
@@ -140335,9 +139355,7 @@ KC KH 9H 7C
 AS 10S 7S 9S
 8S QD AH QS
 8C KS JS 9C
-
 -------
-
 82C
 Pass
 Pass
@@ -140545,9 +139563,7 @@ KS JS QC 7S
 QD 10D KD JD
 KC 9C QH AH
 10S 8C 7C 9H
-
 -------
-
 82H
 Pass
 Pass
@@ -140824,9 +139840,7 @@ KC 8D JC 7C
 AD 10D JD KD
 AH JH 10H AC
 QD QH 8C 7D
-
 -------
-
 102H
 Pass
 Pass
@@ -141063,9 +140077,7 @@ KD 10D AD 9H
 QS AS 10C 10H
 QH KH QC 7S
 10S KS 8C JD
-
 -------
-
 82C
 102S
 Pass
@@ -141310,9 +140322,7 @@ AH 9H 7H KH
 AD 10D 9D 7D
 KD 8H QH JD
 QD 7C JH 10H
-
 -------
-
 Pass
 Pass
 Pass
@@ -141623,9 +140633,7 @@ QC 9D 7S 8C
 7D 10D AD JS
 QD KS 8D JD
 KD KH AC 10S
-
 -------
-
 112D
 Pass
 Pass
@@ -141873,9 +140881,7 @@ AH JH 10H 9H
 AS AC 9S KH
 10C 9D KC KD
 10D QD QH 8S
-
 -------
-
 Pass
 82S
 92D
@@ -142114,9 +141120,7 @@ QH 8H AC KH
 10C JS 7C QD
 7D KD 8S 10D
 KS 8C 10H 7S
-
 -------
-
 82H
 Pass
 92S
@@ -142398,9 +141402,7 @@ KD AD JD 7D
 AH KC 10H 9H
 8H 10C 9C QH
 8C QC JC AC
-
 -------
-
 80SANS
 Pass
 92H
@@ -142722,9 +141724,7 @@ KH AC 8D JD
 9D 7D AD JS
 AS QS 10S QD
 KD KS 9C 10D
-
 -------
-
 82H
 92D
 102H
@@ -143038,9 +142038,7 @@ AC 9S JC 8C
 9D 10D QD 8D
 7S AS 9C QS
 KC QC 8S 10S
-
 -------
-
 82C
 Pass
 122S
@@ -143297,9 +142295,7 @@ AH KD 9D 9C
 JD 8S 7D 10D
 7C 9H 10C KC
 8D QS QD AD
-
 -------
-
 82D
 Pass
 Pass
@@ -143601,9 +142597,7 @@ AD 9H 8D QD
 7S QH 7D AC
 10D JD KD JC
 9D 7H KC KS
-
 -------
-
 112C
 Pass
 Pass
@@ -143854,9 +142848,7 @@ JD 8H KD 9D
 10H 8C QD 7S
 QS 10S AS JH
 JS KH 9C KS
-
 -------
-
 92D
 102S
 112H
@@ -144114,9 +143106,7 @@ AD JD 9C 9D
 8C KC 7C 9S
 10D QD 10S 10H
 8H KS QS AH
-
 -------
-
 82S
 92C
 102D
@@ -144353,9 +143343,7 @@ QD 9C AD 10D
 8S 9S QH 7H
 JC AC QC 8C
 10H KC AS 10C
-
 -------
-
 82C
 92S
 102C
@@ -144639,9 +143627,7 @@ KC 9C QC 7D
 AD KS 8D QD
 8C KD 8H 9D
 7S 10D 8S JD
-
 -------
-
 80SANS
 Pass
 92D
@@ -144919,9 +143905,7 @@ JH 8S AH KH
 8D JS KD 7S
 JD QS 7D 10H
 AS KS 9S 10S
-
 -------
-
 102S
 Pass
 Pass
@@ -145189,9 +144173,7 @@ KS 10S JS QS
 8S KH 9S QH
 QC AC AS JC
 7S 10C 9H 10H
-
 -------
-
 80SANS
 Pass
 92S
@@ -145535,9 +144517,7 @@ QD 7D 9D AD
 10H 10S 7C 8H
 KD 10D 8D QH
 10C 8C JH JD
-
 -------
-
 82C
 Pass
 Pass
@@ -145795,9 +144775,7 @@ KC QH KH 8C
 10S 7C JC 7S
 QS KD 9D 8D
 JS AD 7D 10D
-
 -------
-
 Pass
 Pass
 Pass
@@ -146068,9 +145046,7 @@ JC 9D JH KS
 10S JD 10D 7S
 AS QD 10H 7H
 8S KD AD KH
-
 -------
-
 92H
 Pass
 Pass
@@ -146318,9 +145294,7 @@ QS 10S KS 9S
 KD QH QD 10C
 9C AC 7C QC
 10D KC JC AH
-
 -------
-
 Pass
 Pass
 Pass
@@ -146654,9 +145628,7 @@ AD 8D JD 9D
 KH 10H 8H AH
 QS JS JH QD
 KD AC 7D 10D
-
 -------
-
 82S
 92H
 112S
@@ -146942,9 +145914,7 @@ AC QC KH 8C
 9D 8H JH QD
 AH 10H 7H QH
 KD 10C 9C AS
-
 -------
-
 92D
 Pass
 102C
@@ -147189,9 +146159,7 @@ JD 9C QD KD
 QC KS 10C 9H
 10S AS QS 8S
 JH AD 7S 10D
-
 -------
-
 102D
 Pass
 Pass
@@ -147483,9 +146451,7 @@ KD KC 9D 10D
 KS 7H JD 7D
 9S AD QH QD
 KH AH JH 10H
-
 -------
-
 Pass
 82D
 Pass
@@ -147722,9 +146688,7 @@ KS 9S AS JS
 10D 8D QD KD
 10H QH 9H 10C
 9D 7C JD AD
-
 -------
-
 Pass
 82S
 92D
@@ -147987,9 +146951,7 @@ JS 8S KS 9C
 9H AH 7H KH
 8H 10H JH QH
 KC 9D 10C 7C
-
 -------
-
 90SANS
 Pass
 Pass
@@ -148278,9 +147240,7 @@ AC 9C 10C 7H
 AD KH KD JC
 JS 7S QS 8D
 KC 9D 8H 8S
-
 -------
-
 82C
 92S
 102C
@@ -148591,9 +147551,7 @@ AD 8D QD 9C
 AC JS KC 10H
 9S 9D 7D AS
 KS 8H KD 10D
-
 -------
-
 82C
 Pass
 92S
@@ -148922,9 +147880,7 @@ QS KS 7S AS
 9S 9H KH JS
 9D 8S QC KC
 KD 10S 9C 10C
-
 -------
-
 Pass
 80SANS
 Pass
@@ -149214,9 +148170,7 @@ KC 10C QC AH
 8C AC JH 7C
 QH 10H 10S 9D
 JD QD KH 10D
-
 -------
-
 82S
 Pass
 80SANS
@@ -149499,9 +148453,7 @@ AS 7S KS JS
 KD AD 7D QD
 10D KC 9D 9H
 QH QS AC 7H
-
 -------
-
 80SANS
 Pass
 92H
@@ -149782,9 +148734,7 @@ AH JH KH 9H
 8H KS 10H QH
 10C 7D QD QC
 KC 10D 9D AS
-
 -------
-
 82H
 92S
 Pass
@@ -150095,9 +149045,7 @@ AH 7C 10S QS
 10H 9S KS JS
 QH 7S QC AC
 7H 8S 8C AS
-
 -------
-
 Pass
 82D
 Pass
@@ -150405,9 +149353,7 @@ AH JH 7H 7S
 KH 9D 10S 7D
 AS JS QS QD
 8S KS 8D AD
-
 -------
-
 Pass
 Pass
 Pass
@@ -150730,9 +149676,7 @@ AS 8C QS 8D
 QH 9H JC 7H
 10D 9S KC QC
 7D 7S AC 10C
-
 -------
-
 70SANS
 82C
 92H
@@ -151000,9 +149944,7 @@ KH 10H 9C 7H
 AS QS 7S 9S
 8H KC QD JS
 10D KS JC QC
-
 -------
-
 Pass
 82H
 92C
@@ -151297,9 +150239,7 @@ AH 7H 7D 9H
 QD 8D 10D 9S
 QC 10S JH QH
 AC 10H 8S KH
-
 -------
-
 82H
 80SANS
 Pass
@@ -151617,9 +150557,7 @@ AD 10D KC 9H
 10H 7S QH 7H
 KS 8H 7C QC
 AS JH 10C AH
-
 -------
-
 Pass
 Pass
 Pass
@@ -151992,9 +150930,7 @@ QC 9H 10C JC
 8C JH KS 7H
 QH 10H AH KH
 8S 10S 9S KD
-
 -------
-
 122D
 Pass
 Pass
@@ -152234,9 +151170,7 @@ JS 7S KS QS
 AS JD QD 10S
 10H 7H KH 9D
 9S QH 8D KD
-
 -------
-
 82C
 92S
 Pass
@@ -152512,9 +151446,7 @@ AH KD JD JH
 QS 8S 10S 7D
 JS 10D QD KS
 8D 9D AD 10C
-
 -------
-
 70SANS
 92S
 102C
@@ -152780,9 +151712,7 @@ AH QH 9H 10H
 AC 8D AD KC
 JC 9D 10D KD
 9C 7H KH JD
-
 -------
-
 Pass
 70SANS
 Pass
@@ -153048,9 +151978,7 @@ AS 10S 8C JH
 QD 10D AD JD
 8D KD 7H 10C
 KH KC JC 9D
-
 -------
-
 112S
 Pass
 Pass
@@ -153293,9 +152221,7 @@ AH 9H 7H 10H
 8H QH KH JD
 10D QD JH 7S
 AS 7D 10C JC
-
 -------
-
 82H
 Pass
 Pass
@@ -153531,9 +152457,7 @@ AD 8D 10H QH
 AC 8C 7C 8H
 9C QC 10C 7D
 AH QD KC 7H
-
 -------
-
 Pass
 Pass
 82S
@@ -153842,9 +152766,7 @@ KD 10D AS JD
 9S QD 10H 9D
 KS JH 9H AH
 7S KH 8H 7H
-
 -------
-
 80SANS
 Pass
 92C
@@ -154135,9 +153057,7 @@ AS 8S KS JD
 AD 8D QS 9D
 10D KD 10S AC
 7D 7S 9H JC
-
 -------
-
 Pass
 Pass
 Pass
@@ -154443,9 +153363,7 @@ AC JC 7C 8C
 9C 10C JS 9D
 JD 10D 7D KC
 8D 7S QC AH
-
 -------
-
 92S
 Pass
 102S
@@ -154699,9 +153617,7 @@ AH 7H 8H JH
 KS 9H AS 8C
 7S 7C JC QH
 10H KH 7D AC
-
 -------
-
 82C
 Pass
 92D
@@ -154944,9 +153860,7 @@ JH 7H QH 9S
 AC 8S KD 9C
 7D JD 10D QD
 KS QC QS 8D
-
 -------
-
 Pass
 Pass
 Pass
@@ -155313,9 +154227,7 @@ AD 7D 8D JD
 AH QH KS JH
 7H 9S 8C QC
 9C JS 7S AC
-
 -------
-
 Pass
 Pass
 70SANS
@@ -155590,9 +154502,7 @@ AS 10S 9S QS
 10D 9H 9D 7D
 KH 10H 8C JS
 7C KD 8H QH
-
 -------
-
 82S
 92H
 102S
@@ -155850,9 +154760,7 @@ JH KH 10H 9S
 10S KS 7S QS
 AS 9D JD 8S
 8C 7D 8D QH
-
 -------
-
 70SANS
 Pass
 82C
@@ -156131,9 +155039,7 @@ AH JH 10H 8H
 JD 9S 9D QC
 QS KC 10S AD
 9C KS 8D AC
-
 -------
-
 92C
 Pass
 Pass
@@ -156390,9 +155296,7 @@ QD 10D KD KH
 10S 7S JS 9S
 AS 8H KS QH
 8S AH JH 9H
-
 -------
-
 70SANS
 Pass
 82H
@@ -156703,9 +155607,7 @@ AH 8H AC JH
 9S 9H 8S QS
 10C 8C KC 7C
 JC QD 9C QC
-
 -------
-
 Pass
 Pass
 Pass
@@ -157025,9 +155927,7 @@ KS 10S 8D QS
 8C KD AD JS
 8H QD QH 9D
 10D JD 7D KH
-
 -------
-
 82D
 102H
 112D
@@ -157312,9 +156212,7 @@ KC 8S 9C AC
 KD 9D 10D KS
 QC 8D JD AD
 9H 7D AH 10H
-
 -------
-
 82D
 102S
 100SANS
@@ -157562,9 +156460,7 @@ AC 7H QC JC
 QH 7D AH 10H
 QD KD 10D AD
 9D JD KH 7S
-
 -------
-
 Pass
 Pass
 Pass
@@ -157877,9 +156773,7 @@ QS 9C 7D 9D
 QD 8C 10D 8D
 AD KD QH JH
 AC 10C 8H AH
-
 -------
-
 82S
 92C
 Pass
@@ -158168,9 +157062,7 @@ KD 10D 8D AD
 7H 10H AH 7S
 KS JH QD JD
 AS KH 7D QH
-
 -------
-
 Pass
 Pass
 Pass
@@ -158443,9 +157335,7 @@ JC 10S 9C KD
 JD 8D QD 9S
 7C QS 8C AD
 7H 7S JS KC
-
 -------
-
 112H
 Pass
 122H
@@ -158703,9 +157593,7 @@ QC AD 9S 8H
 AH 9H JS 10H
 KH 7H 8D 8C
 10S QS QH JH
-
 -------
-
 Pass
 82C
 92S
@@ -159013,9 +157901,7 @@ AC QC 7C 8C
 10C KC 10H QS
 AS 8S 7S KS
 JS 9S 7H 10S
-
 -------
-
 92S
 112D
 Pass
@@ -159257,9 +158143,7 @@ QS 9H KS 8H
 AH JC JH 10H
 KH 7C 10D QC
 7D 10C 7H AC
-
 -------
-
 80SANS
 Pass
 92D
@@ -159588,9 +158472,7 @@ JC 8C QS QC
 AH 9H 7H QH
 KH JH 10H AC
 KD 9C KC 7S
-
 -------
-
 Pass
 Pass
 Pass
@@ -159906,9 +158788,7 @@ AD JD KD QD
 AH KH 8S 10H
 9D KS KC QS
 QC AS 9S 10S
-
 -------
-
 102S
 112H
 Pass
@@ -160169,9 +159049,7 @@ AS JC JS 7S
 AH 10H 9H KD
 8C QH 7D QC
 KS 10C AD JH
-
 -------
-
 82S
 92D
 Pass
@@ -160518,9 +159396,7 @@ AD 7D KD JD
 9D QD 9S 10D
 JS 7H JC KS
 10C 8D KC 10S
-
 -------
-
 Pass
 82C
 92D
@@ -160767,9 +159643,7 @@ JC 8C QC AC
 AS QH 10H 10S
 JS KH 9H 10C
 JH 9S AH 9D
-
 -------
-
 Pass
 Pass
 Pass
@@ -161112,9 +159986,7 @@ KD JD 8H AD
 KC 10H KH 7H
 QC QS 8D JH
 7C 10D 7S AH
-
 -------
-
 Pass
 Pass
 Pass
@@ -161505,9 +160377,7 @@ AH 8S 7H JH
 JC JD 7D KH
 QD AD QS 10D
 9S KD AS 10H
-
 -------
-
 Pass
 Pass
 Pass
@@ -161896,9 +160766,7 @@ AC 10C JC QC
 7S 9H 9C 9D
 8D 10D 7D KC
 8C 7H 7C JD
-
 -------
-
 Pass
 92D
 Pass
@@ -162138,9 +161006,7 @@ AD JD KS QD
 10S 7C 9S JH
 9H 10H AH 7S
 QH QS AC KH
-
 -------
-
 Pass
 82H
 Pass
@@ -162433,9 +161299,7 @@ KC JC JD 9S
 10S KS AS 7D
 AD 8D 9D 10D
 KD QD 8H JS
-
 -------
-
 82C
 92S
 102H
@@ -162678,9 +161542,7 @@ KH 9H 9C 7H
 9D 8H JD 10D
 10C 7C QC KC
 AC AD 8C KS
-
 -------
-
 Pass
 Pass
 Pass
@@ -162990,9 +161852,7 @@ AC 8C KC JC
 QD QH JD 7D
 QC 9C 10C QS
 AS 10D AH 7C
-
 -------
-
 92H
 Pass
 Pass
@@ -163236,9 +162096,7 @@ QD KD 8D AD
 JS AC KS QS
 JH 10S 9S 10H
 9D KH 10D JD
-
 -------
-
 Pass
 Pass
 Pass
@@ -163530,9 +162388,7 @@ AD 10S 7D 8D
 10H QD KC 9D
 KH KD 10D JC
 8C AC 7C 10C
-
 -------
-
 Pass
 80SANS
 Pass
@@ -163894,9 +162750,7 @@ AS 10H 8S 7C
 9C JC AC 9S
 10D 7D 9D QD
 AD KD JD 8D
-
 -------
-
 82S
 92C
 122S
@@ -164146,9 +163000,7 @@ AH 9C JH QH
 AD JS 7D 9D
 10D 10C AC JD
 KH 10S QC QD
-
 -------
-
 82D
 Pass
 112D
@@ -164383,9 +163235,7 @@ AS QS QD 9D
 8D 8C AD 7D
 10C 8S KS QH
 KD 8H JD 10D
-
 -------
-
 82H
 92S
 102D
@@ -164680,9 +163530,7 @@ AC QC KC QH
 JD JS KS JC
 7D 7C 7S 10S
 KH 9S 10C AS
-
 -------
-
 82S
 Pass
 Pass
@@ -164990,9 +163838,7 @@ KC 9D 10D 8C
 QC 7D 8S JC
 KD QS AD 8D
 JD QD AH KS
-
 -------
-
 Pass
 Pass
 102C
@@ -165304,9 +164150,7 @@ JH JS 9H KD
 AD 9D 10C 7D
 10H KS QD QS
 7C 10D JD 10S
-
 -------
-
 Pass
 Pass
 Pass
@@ -165702,9 +164546,7 @@ AD 9D JS 8D
 KD JD 7S 7H
 QH QD JH AH
 QS 8C 10S 10H
-
 -------
-
 82S
 Pass
 92S
@@ -165950,9 +164792,7 @@ AC 8C KC 7C
 KH QH 8D 10H
 AD AS QD 10D
 JC 10C 10S QC
-
 -------
-
 92C
 90SANS
 Pass
@@ -166231,9 +165071,7 @@ AH QH 7H JH
 JC JS 8S 10D
 JD QD QS 9D
 AD AS 9H 10H
-
 -------
-
 Pass
 Pass
 Pass
@@ -166584,9 +165422,7 @@ AS 9D 9S KS
 QD 7D 8D AD
 10S 8C JH 8S
 10D QH JD KD
-
 -------
-
 Pass
 82S
 Pass
@@ -166887,9 +165723,7 @@ AD 7D QD JD
 KH 9D 9S KC
 8S KD 8D JS
 AS 10S AH 10D
-
 -------
-
 Pass
 Pass
 80SANS
@@ -167224,9 +166058,7 @@ AH 9S KH 9D
 AS 7D JD QD
 KS QC JC KD
 QS AD 7H 10D
-
 -------
-
 82D
 Pass
 Pass
@@ -167477,9 +166309,7 @@ JD 8D QD 10D
 9C QC 7C AC
 JC 8S KD 10C
 QH 9D 8C KC
-
 -------
-
 82D
 Pass
 92S
@@ -167730,9 +166560,7 @@ JH 8H 9H QH
 QD 7D KC 10D
 8C KH 10H 10C
 QC 7C AH AS
-
 -------
-
 82C
 Pass
 80SANS
@@ -168051,9 +166879,7 @@ JS 7S KS 9H
 AS 8H 10S 7H
 QS KD QH JH
 8S AH 7D 10H
-
 -------
-
 80SANS
 92D
 Pass
@@ -168298,9 +167124,7 @@ JH AH 8H 10D
 AD 7H KD 8D
 QS JS 10S KH
 KS 10H QH 9H
-
 -------
-
 Pass
 82D
 92S
@@ -168596,9 +167420,7 @@ AS QC 8S JS
 10H 8H KD QS
 10D KH 7D KS
 8D 10S 7S 9S
-
 -------
-
 102D
 Pass
 Pass
@@ -168835,9 +167657,7 @@ KS 9S 9C 10C
 8D 9D JD AD
 7H 10H QH JH
 KH 8H 9H AH
-
 -------
-
 82S
 Pass
 Pass
@@ -169120,9 +167940,7 @@ JC KC 9S JD
 10H 9D JH JS
 QD 7S 7D QS
 KS AD AS KD
-
 -------
-
 82S
 92H
 102D
@@ -169386,9 +168204,7 @@ JC KC QC AC
 7S 7H 9S 8S
 9H 8C AS JH
 10C KH KD AD
-
 -------
-
 82S
 92C
 102C
@@ -169670,9 +168486,7 @@ AH 8H 9H 7C
 7H 10H JH KS
 QC KH AC 9C
 10C 9D 10S JS
-
 -------
-
 82C
 102H
 Pass
@@ -169912,9 +168726,7 @@ AC JC QC 7C
 9H KH JS 7S
 KD QD 9S 10C
 QS KS 10S AS
-
 -------
-
 82S
 92D
 102C
@@ -170171,9 +168983,7 @@ AS QS 8H 7H
 10S 9S 7D 9D
 KS KH KC 8D
 7C 10D 7S AH
-
 -------
-
 Pass
 82H
 92D
