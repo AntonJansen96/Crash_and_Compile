@@ -30,8 +30,7 @@ During an earlier crash and compile we hosted a Bitterballenborrel idle game. Id
 
 ### 08 - Vierdeman parse 1
 
-You've obtained a notebook full of klaverjas rounds from https://questions-api.scriptcie.nl/public/klaverjas-handjes.txt. The notebook contains all bids (and passses), and all cards played. Find the total amount of passes.
-
+You've obtained a notebook full of klaverjas rounds from [data/klaverjas-handjes.txt](data/klaverjas-handjes.txt). The notebook contains all bids (and passes), and all cards played. Find the total amount of passes.
 ### 09 - Vierdeman parse 2
 
 Now that you know how to read the notebook. Find the amount of times that a sans bid won. That is, how many times did the players play a round without any suit that was trump.
@@ -42,11 +41,11 @@ Figure out how often the last trick (slag) of a round contained a trump card.
 
 ### 11 - Vierdeman parse 4
 
-On https://vierdeman.blob.core.windows.net/vierdeman/tournament_simplified.json you can find a more elaborate data dump of the klaverjas notebook you found earlier. Using the extra information at your disposal, find the amount of times a round was won with a cowardly bid (laf bod). A corwardly bid occurs when you could've bid higher. For instance you bid 142, but you get 155 points (and the opponent gets 7). That means you could've bid 152.
+On [data/tournament_simplified.json](data/tournament_simplified.json) you can find a more elaborate data dump of the klaverjas notebook you found earlier. Using the extra information at your disposal, find the amount of times a round was won with a cowardly bid (laf bod). A corwardly bid occurs when you could've bid higher. For instance you bid 142, but you get 155 points (and the opponent gets 7). That means you could've bid 152.
 
 ### 12 - Vierdeman parse 5
 
-On https://vierdeman.blob.core.windows.net/vierdeman/tournament_simplified.json you can find a more elaborate data dump of the klaverjas notebook you found earlier. Using the extra information at your disposal, find the amount of times that a team went wet because of the fame.
+On [data/tournament_simplified.json](data/tournament_simplified.json) you can find a more elaborate data dump of the klaverjas notebook you found earlier. Using the extra information at your disposal, find the amount of times that a team went wet because of the fame.
 
 ### 13 - Around the clock
 
@@ -66,8 +65,8 @@ The borrelcie has tried to organize a beer mile event for many years, but failed
 
 ### 17 - Atomic scrabble
 
-You stare at the projector screen and your mind wanders the the time you attempted to solve the AIVD chrismass puzzle. You remeber seeing those insanely difficult to decipher questions on the screen. One time you had to do something with the scrabble score of letters, and figure out how that affected some sort of encoding. You think. You can't really remember what it was. Suddenly you hear a familiar voice whispering: You're thinking about scrabble now, aren't you? I have a question for you: 'What is the longest word in the english language scrabble dictionary that does not have the property that shorter words could be made from its letters?' Note: The dictionary can be found here: https://vierdeman.blob.core.windows.net/vierdeman/dictionary.json Second note: If you find multiple possible answers, choose the one with the highest scrabble score.
+You stare at the projector screen and your mind wanders the the time you attempted to solve the AIVD chrismass puzzle. You remeber seeing those insanely difficult to decipher questions on the screen. One time you had to do something with the scrabble score of letters, and figure out how that affected some sort of encoding. You think. You can't really remember what it was. Suddenly you hear a familiar voice whispering: You're thinking about scrabble now, aren't you? I have a question for you: 'What is the longest word in the english language scrabble dictionary that does not have the property that shorter words could be made from its letters?' Note: The dictionary can be found here: [data/dictionary.json](data/dictionary.json). Second note: If you find multiple possible answers, choose the one with the highest scrabble score.
 
 ### 18 - Vrijmibo
 
-Since nobody is around you use your leet-haxxor skills to take a peek into the streep database. Use this opportunity to figure out how many beers have been drunk during vrijmiboes, both official ones and unofficial ones. Note that vrijmiboes necessarily start on Fridays, but don't necessarily have to end on Fridays, so for the purpose of this question start the borrel at 12:00 and end it at 9:00 the following day. You can find the database here: https://vierdeman.blob.core.windows.net/streeppc/francken-transactions.sqlite
+Since nobody is around you use your leet-haxxor skills to take a peek into the streep database. Use this opportunity to figure out how many beers have been drunk during vrijmiboes, both official ones and unofficial ones. Note that vrijmiboes necessarily start on Fridays, but don't necessarily have to end on Fridays, so for the purpose of this question start the borrel at 12:00 and end it at 9:00 the following day. You can find the database here: [data/francken-transactions.sqlite](data/francken-transactions.sqlite).
