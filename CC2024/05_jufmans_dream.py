@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 
-import copy
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.spatial.transform import Rotation as R
 
 
 def isJuf(num: int) -> int:
+
     def isPalindrome(num: int) -> bool:
         stringnum = str(num)
         return stringnum[::-1] == stringnum
@@ -27,7 +27,7 @@ def isJuf(num: int) -> int:
     return 0
 
 
-def plotBeforeAfer(orig: np.array, rot: np.array) -> None:
+def plotBeforeAfer(orig, rot) -> None:
     """Plots object's original and rotated coordinates for a visual comparison."""
 
     fig = plt.figure(figsize=(12, 6))
@@ -56,74 +56,54 @@ def plotBeforeAfer(orig: np.array, rot: np.array) -> None:
     plt.show()
 
 
-def translate(coordinates: np.array, movement: np.array) -> np.array:
-    return coordinates + movement
-
-
-def getDirection(coordinates: np.array) -> np.array:
-    """Obtain the direction vector in which the nose is pointing."""
-    nose = coordinates[-2]
-    com = coordinates[-1]
+def getDirection(coords):
+    """Obtain the direction vector in which the rectangle's 'nose' is pointing."""
+    nose = coords[-2]
+    com = coords[-1]
     dir = nose - com
     dir /= np.linalg.norm(dir)
     return np.round(dir).astype(int)
 
 
-def applyTurnLeft(position: np.array, orientation: np.array):
-    turnLeft = R.from_euler("z", [np.pi / 2])
-    orientation = orientation * turnLeft
-    return orientation.apply(position), orientation
+if __name__ == "__main__":
 
+    person = np.array(
+        [
+            [-0.5, -0.5, -1.0],
+            [-0.5, 0.5, -1.0],
+            [0.5, -0.5, -1.0],
+            [0.5, 0.5, -1.0],
+            [-0.5, -0.5, 1.0],
+            [-0.5, 0.5, 1.0],
+            [0.5, -0.5, 1.0],
+            [0.5, 0.5, 1.0],
+            [-0.1, 0.5, 0.5],  # eye point (for debug)
+            [0.1, 0.5, 0.5],  # eye point (for debug)
+            [0.0, 0.5, 0.0],  # nose point -> used in getting the direction
+            [0.0, 0.0, 0.0],  # COM point -> represents position
+        ]
+    )
 
-def applyTurnUp(position: np.array, orientation: np.array):
-    turnUp = R.from_euler("x", [np.pi / 2])
-    orientation = orientation * turnUp
-    return orientation.apply(position), orientation
+    # Initial conditions
+    rotated = person
+    orientation = R.from_euler("xyz", [0, 0, 0], degrees=True)  # Initial orientation.
+    pos = np.array([0, 0, 0])  # Initial position (== person[-1]).
 
+    # Main loop
+    for step in range(1, 10000):
 
-person = np.array(
-    [
-        [-0.5, -0.5, -1.0],
-        [-0.5, 0.5, -1.0],
-        [0.5, -0.5, -1.0],
-        [0.5, 0.5, -1.0],
-        [-0.5, -0.5, 1.0],
-        [-0.5, 0.5, 1.0],
-        [0.5, -0.5, 1.0],
-        [0.5, 0.5, 1.0],
-        [-0.1, 0.5, 0.5],  # eye point (for debug)
-        [0.1, 0.5, 0.5],  # eye point (for debug)
-        [0.0, 0.5, 0.0],  # nose point -> used in getting the direction
-        [0.0, 0.0, 0.0],  # COM point -> represents position
-    ]
-)
-rotated = copy.deepcopy(person)
-orientation = R.from_euler("xyz", [0, 0, 0], degrees=True)  # Initial orientation
-direction = getDirection(person)
-position = np.array([0, 0, 0])
+        pos += getDirection(rotated)
 
-turnLeft = R.from_euler("z", [np.pi / 2])
-turnUp = R.from_euler("x", [np.pi / 2])
+        jufVal = isJuf(step)
 
-for step in range(1, 10000):
+        if jufVal == 1:
+            orientation *= R.from_euler("z", [np.pi / 2])
+            rotated = orientation.apply(person)
 
-    # Take a step
-    position += getDirection(rotated)
+        elif jufVal == 2:
+            orientation *= R.from_euler("x", [np.pi / 2])
+            rotated = orientation.apply(person)
 
-    # Check if it's single/double Juf, or not at all.
-    jufVal = isJuf(step)
-
-    if jufVal == 1:
-        orientation = orientation * turnLeft
-        rotated = orientation.apply(person)
-
-    elif jufVal == 2:
-        orientation = orientation * turnUp
-        rotated = orientation.apply(person)
-
-    # Victory condition
-    if abs(position[0]) + abs(position[1]) + abs(position[2]) == 40:
-        print(step)
-        break
-
-    print(step, position, getDirection(rotated), jufVal)
+        if abs(pos[0]) + abs(pos[1]) + abs(pos[2]) == 40:
+            print(step, pos)
+            break
