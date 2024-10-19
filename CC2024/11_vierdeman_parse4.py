@@ -10,11 +10,15 @@ for boom in tournament:
 
     for slag in boom["rounds"]:
 
+        if slag["wet"]:
+            continue
+
+        score0 = slag["wij"]
+        score1 = slag["zij"]
         wieSpeeltId = slag["bid"]["highestBidBy"]
         hetbod = slag["bid"]["bid"]
 
-        # Roem
-        roem0 = 0
+        roem0 = 0  # Rekening houden met het effect van roem.
         roem1 = 0
         for hand in slag["playedTricks"]:
             if hand["winner"] in [0, 2]:
@@ -22,15 +26,18 @@ for boom in tournament:
             else:
                 roem1 += hand["honor"]
 
-        roem0 *= 1  # 20 roem -> 20 punten voor spelende team
-        roem1 *= 1
+        # Roem gaat in de .json file in twintigtallen. Het verwarrende is dat
+        # voor de score van de hele slag (voor het tournooi) roem in de volle
+        # twintigtallen wordt geteld, maar tijdens de slag zelf, als je zegmaar
+        # checkt of je nat bent, maar in tientallen. vandaar dat de daadwerkelijke
+        # score = - 0.5 * eigen roem en dat hetbod += 0.5 * vijandige roem.
 
-        if wieSpeeltId in [0, 2]:  # team 0 (players 0, 2)
-            score = slag["wij"] - 0.5 * roem0
-            hetbod = hetbod + 0.5 * roem1
-        else:                      # team 1 (players 1, 3)
-            score = slag["zij"] - 0.5 * roem1
-            hetbod = hetbod + 0.5 * roem0
+        if wieSpeeltId in [0, 2]:
+            score = score0 - 0.5 * roem0
+            hetbod += 0.5 * roem1
+        else:
+            score = score1 - 0.5 * roem1
+            hetbod += 0.5 * roem0
 
         if score >= hetbod + 10:
             lafcount += 1
