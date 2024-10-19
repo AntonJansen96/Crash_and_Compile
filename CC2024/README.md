@@ -1,5 +1,7 @@
 ## Crash and Compile : 2024 Lustrum Edition
-October 11th, 2024 17.00 at [spheer.ai](https://www.spheer.ai).
+#### Team Jansen & Jansen. Original event on October 11th, 2024 17.00 at [spheer.ai](https://www.spheer.ai).
+
+![Screen](./screen.png)
 
 ### 01 - Divisive sum
 
